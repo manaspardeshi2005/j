@@ -1,0 +1,1001 @@
+id,property_type,sale_price,transaction_date,location,amenities,neighborhood,school_proximity,transit_proximity
+1,Commercial,177307.76,2023-08-18,suburb exclusive scenic,elevator,quiet waterfront trendy,0,3
+2,Residential,1567715.03,2021-03-05,coastal central historic,kitchen storage parking,trendy uptown downtown,2,1
+3,Land,280683.00,2020-07-26,emerging urban rural,cable elevator parking,affluent residential,1,5
+4,Residential,164798.38,2023-09-08,exclusive developed,balcony cable gym,family_friendly,3,2
+5,Residential,95866.03,2021-06-01,modern,heating playground storage,gated suburban,4,2
+6,Residential,244201.41,2023-12-16,developed quiet,playground kitchen wifi,suburban industrial,3,1
+7,Residential,2289008.44,2022-03-16,rural suburb,balcony,rural exclusive,4,4
+8,Residential,1578406.37,2023-08-07,luxury mountain central,playground smart_home elevator,trendy,1,3
+9,Residential,4254935.65,2023-10-09,affordable urban scenic,laundry playground air_conditioning,urban,4,4
+10,Residential,702729.32,2023-12-17,busy exclusive vibrant,parking storage furnished,developing,0,4
+11,Residential,59132.04,2023-01-21,mountain,air_conditioning kitchen,uptown diverse waterfront,2,3
+12,Commercial,4049174.85,2020-03-02,vibrant,garden,exclusive affluent suburban,1,4
+13,Residential,242647.51,2021-02-07,emerging scenic,security elevator balcony,family_friendly downtown diverse,0,2
+14,Residential,116001.46,2022-06-29,urban busy accessible,kitchen elevator patio,uptown,3,2
+15,Residential,1260899.14,2020-04-01,busy,laundry cable air_conditioning,historic,2,2
+16,Residential,3022569.26,2022-04-02,quiet affordable,wifi parking gym,suburban affluent vibrant,4,2
+17,Residential,308872.83,2021-09-12,central remote coastal,playground parking furnished,developing,5,3
+18,Commercial,573077.99,2023-10-06,busy accessible,garden cable fireplace,uptown,3,1
+19,Residential,1029251.09,2023-07-20,central mountain remote,fireplace pool landscaping,trendy artistic vibrant,3,2
+20,Residential,3491942.72,2022-03-06,urban exclusive modern,security wifi,downtown,2,2
+21,Commercial,50040.50,2023-12-04,suburb mountain coastal,heating,trendy rural,3,3
+22,Residential,4126784.88,2022-08-30,quiet exclusive,wifi air_conditioning,family_friendly,4,2
+23,Residential,4905008.87,2023-11-11,remote exclusive accessible,pool storage furnished,industrial rural,4,4
+24,Commercial,307264.40,2020-09-04,downtown developed urban,kitchen wifi balcony,uptown suburban quiet,4,4
+25,Residential,4136986.09,2020-12-02,central historic,elevator,uptown,3,0
+26,Residential,1106251.90,2022-10-21,exclusive downtown,fireplace,historic residential quiet,1,1
+27,Commercial,1890048.41,2020-04-07,mountain,kitchen security,uptown waterfront,0,1
+28,Residential,903088.74,2022-09-09,modern peaceful,smart_home,diverse waterfront,3,3
+29,Residential,4053776.64,2023-04-07,vibrant urban,security balcony,urban artistic,0,0
+30,Residential,2963077.13,2021-06-09,busy,gym wifi,exclusive suburban,3,2
+31,Residential,414092.77,2021-11-15,vibrant exclusive,garden laundry,developing,2,2
+32,Commercial,2312348.47,2022-01-05,scenic emerging,heating,affluent,2,3
+33,Residential,111588.58,2023-01-11,luxury,furnished,midtown,5,2
+34,Residential,1533668.00,2020-08-05,urban,wifi heating,historic uptown,1,3
+35,Residential,2688172.58,2023-05-23,scenic vibrant rural,smart_home,midtown trendy,4,1
+36,Residential,926182.62,2023-03-08,accessible busy coastal,kitchen,family_friendly midtown,4,2
+37,Land,1557449.00,2022-08-19,remote affordable vibrant,fireplace laundry,exclusive gated affluent,0,4
+38,Residential,93675.99,2021-05-17,accessible busy remote,furnished smart_home,family_friendly urban diverse,0,2
+39,Residential,3157522.51,2022-08-09,peaceful central suburb,smart_home,artistic affluent,2,5
+40,Residential,1192762.97,2023-11-04,affordable,pool garden cable,family_friendly urban downtown,4,2
+41,Residential,3368606.83,2021-01-29,downtown emerging,storage,exclusive,1,2
+42,Residential,1544737.55,2023-08-24,historic emerging,landscaping,industrial,0,0
+43,Commercial,1387883.35,2020-01-15,historic,kitchen elevator,midtown,4,2
+44,Residential,4940028.76,2023-05-23,scenic historic,wifi,exclusive diverse urban,1,0
+45,Residential,145544.98,2020-01-08,remote suburb,elevator,artistic,3,3
+46,Residential,1423355.76,2022-12-06,urban developed luxury,landscaping,trendy waterfront,1,5
+47,Residential,4729241.07,2023-07-05,suburb,patio,urban uptown gated,0,4
+48,Residential,328764.28,2023-04-24,busy mountain,heating fireplace elevator,rural vibrant,3,0
+49,Residential,440073.34,2022-08-24,scenic,garden furnished playground,commercial downtown,3,4
+50,Residential,1450579.36,2021-06-04,central,patio,gated historic commercial,1,3
+51,Residential,276937.19,2021-08-03,coastal,garden pool landscaping,uptown waterfront,5,2
+52,Commercial,4071931.01,2021-11-24,busy urban,furnished kitchen,developing historic,0,2
+53,Land,4667335.71,2023-05-28,downtown,balcony cable,quiet artistic,1,3
+54,Residential,2273784.25,2023-08-05,developed affordable,smart_home gym,industrial,3,0
+55,Residential,2060498.68,2023-05-12,emerging busy luxury,security,diverse industrial,5,4
+56,Residential,2416131.70,2021-08-31,busy coastal remote,cable,vibrant trendy suburban,1,2
+57,Residential,819923.90,2022-08-07,exclusive mountain luxury,balcony,suburban exclusive gated,2,3
+58,Residential,592115.87,2023-11-20,affordable,gym pool fireplace,affluent developing,3,2
+59,Residential,424769.95,2023-07-04,modern developed busy,security pool storage,industrial,1,4
+60,Residential,1218159.97,2022-08-29,urban,cable storage,vibrant,1,2
+61,Residential,109995.04,2020-02-27,historic luxury busy,furnished,urban,4,4
+62,Residential,4263232.52,2020-08-22,mountain luxury vibrant,kitchen security playground,uptown,5,2
+63,Residential,4141943.94,2023-07-05,accessible,patio,industrial vibrant,0,3
+64,Residential,519862.26,2022-09-13,historic suburb,kitchen furnished,artistic gated,2,2
+65,Land,276897.25,2022-03-17,quiet,air_conditioning balcony pool,suburban family_friendly,2,2
+66,Commercial,4385100.98,2023-10-28,remote developed modern,balcony security wifi,waterfront,0,4
+67,Residential,279048.14,2021-09-19,downtown rural central,balcony wifi playground,artistic urban waterfront,2,0
+68,Residential,353957.37,2022-08-02,developed urban,smart_home,diverse industrial family_friendly,5,1
+69,Commercial,2934731.15,2023-10-07,modern remote scenic,storage security patio,gated,3,0
+70,Residential,1313775.15,2022-12-05,modern peaceful,balcony wifi gym,diverse historic affluent,5,2
+71,Residential,748462.57,2021-11-22,mountain remote exclusive,landscaping,exclusive affluent,3,1
+72,Residential,84145.46,2022-09-26,modern central remote,wifi smart_home,commercial waterfront,1,0
+73,Commercial,1859845.82,2022-06-20,mountain luxury peaceful,heating furnished laundry,downtown gated,0,3
+74,Residential,4029707.49,2022-07-27,remote,laundry fireplace pool,urban artistic trendy,3,0
+75,Residential,313384.44,2020-05-13,affordable,pool furnished smart_home,vibrant,4,5
+76,Residential,107184.88,2023-05-27,busy,furnished parking,waterfront diverse,4,1
+77,Commercial,1495995.18,2020-08-01,central accessible vibrant,heating air_conditioning,quiet,0,4
+78,Land,76520.60,2023-05-24,central historic,playground kitchen,vibrant artistic,2,2
+79,Land,3983149.09,2022-12-06,remote central vibrant,laundry playground heating,commercial diverse,2,4
+80,Residential,995912.75,2022-10-01,exclusive peaceful modern,gym,vibrant trendy,3,3
+81,Commercial,3539350.18,2023-12-30,suburb rural,pool,residential suburban downtown,2,3
+82,Residential,2518558.07,2020-06-20,central scenic downtown,garden laundry,quiet,0,4
+83,Residential,3135698.88,2022-06-20,coastal developed,garden patio cable,trendy uptown,0,1
+84,Land,1350154.23,2023-03-30,luxury downtown accessible,furnished,developing urban,2,2
+85,Residential,2490394.16,2022-03-01,affordable urban historic,smart_home playground storage,residential downtown,4,3
+86,Residential,58381.84,2021-01-31,suburb affordable,garden landscaping,uptown exclusive residential,1,1
+87,Land,351706.85,2021-07-13,downtown rural,heating,suburban residential rural,4,2
+88,Residential,2904243.99,2023-06-28,quiet modern accessible,air_conditioning,downtown,2,3
+89,Land,3676433.96,2023-08-04,remote exclusive,furnished smart_home kitchen,rural suburban artistic,2,5
+90,Residential,136466.59,2022-12-18,modern central vibrant,garden air_conditioning landscaping,trendy,1,2
+91,Commercial,296079.73,2023-06-18,remote vibrant,patio garden,exclusive vibrant,4,3
+92,Residential,295880.26,2023-12-09,busy urban emerging,landscaping,industrial historic exclusive,4,4
+93,Commercial,2954319.66,2023-01-31,remote,patio parking,gated diverse uptown,0,2
+94,Land,50000.31,2020-12-06,remote affordable,laundry gym,developing,2,0
+95,Residential,2973178.77,2021-09-06,peaceful downtown,wifi elevator air_conditioning,uptown developing artistic,0,1
+96,Residential,234538.87,2022-05-02,mountain,laundry furnished,suburban downtown quiet,5,5
+97,Residential,4192860.90,2023-12-25,developed,heating,industrial gated commercial,3,5
+98,Commercial,1858353.31,2023-01-22,vibrant,kitchen furnished,uptown,2,3
+99,Commercial,1329690.59,2023-12-17,emerging accessible,balcony,exclusive suburban diverse,3,4
+100,Residential,1905035.34,2020-07-31,central historic,playground heating pool,urban family_friendly artistic,3,3
+101,Residential,1497442.13,2022-02-01,luxury,heating air_conditioning,developing,4,2
+102,Residential,55710.21,2022-06-02,affordable,gym wifi storage,urban,5,2
+103,Residential,889483.06,2020-11-29,mountain downtown suburb,garden landscaping balcony,artistic gated historic,4,3
+104,Residential,4584623.38,2020-03-15,modern remote vibrant,kitchen playground fireplace,quiet,1,1
+105,Land,4608267.62,2020-06-06,affordable,furnished storage,exclusive family_friendly,4,4
+106,Land,3266211.32,2021-01-20,exclusive emerging quiet,fireplace parking landscaping,developing industrial historic,3,4
+107,Residential,1184870.13,2020-10-13,downtown,kitchen balcony,vibrant exclusive residential,4,5
+108,Residential,4156441.00,2023-04-26,quiet urban,patio,family_friendly gated waterfront,3,1
+109,Residential,798399.36,2022-03-21,busy peaceful coastal,elevator landscaping,affluent family_friendly,3,3
+110,Residential,4675112.90,2021-12-18,scenic downtown modern,gym,downtown historic,2,1
+111,Residential,1396279.83,2021-08-30,vibrant,heating balcony,residential diverse,4,2
+112,Residential,165787.23,2020-11-15,downtown,heating playground balcony,waterfront,2,3
+113,Residential,2417940.08,2023-09-14,accessible historic,laundry furnished,artistic,3,4
+114,Residential,1445217.86,2021-10-04,peaceful urban,storage,affluent family_friendly,1,4
+115,Commercial,1895631.74,2021-03-11,accessible,elevator garden laundry,industrial waterfront family_friendly,3,2
+116,Residential,3479764.06,2022-03-26,urban remote quiet,smart_home,gated quiet,1,1
+117,Residential,1659799.28,2020-10-01,coastal,security pool cable,family_friendly,2,4
+118,Residential,3666395.63,2023-03-30,affordable,elevator pool gym,residential downtown artistic,4,2
+119,Residential,1974469.81,2021-07-31,downtown vibrant,landscaping garden,waterfront urban uptown,1,3
+120,Commercial,425765.21,2023-01-18,accessible emerging,fireplace air_conditioning,vibrant gated,2,5
+121,Residential,92014.78,2023-01-15,modern developed,gym fireplace,quiet family_friendly urban,4,2
+122,Land,1331272.27,2020-07-17,suburb busy quiet,pool playground patio,diverse industrial,1,4
+123,Residential,1832862.30,2022-06-14,mountain affordable quiet,elevator playground,uptown residential urban,1,4
+124,Residential,691920.31,2020-11-02,affordable vibrant quiet,patio security cable,suburban diverse family_friendly,3,1
+125,Residential,1193477.36,2022-12-25,suburb developed urban,gym playground laundry,rural vibrant,2,2
+126,Residential,1053305.29,2022-04-24,peaceful,heating,family_friendly diverse artistic,4,1
+127,Land,227362.98,2022-07-01,developed historic scenic,air_conditioning furnished,commercial affluent downtown,4,4
+128,Commercial,2477618.54,2022-08-09,urban suburb coastal,smart_home,industrial quiet,2,1
+129,Land,661036.71,2021-11-16,modern developed busy,garden,vibrant,1,5
+130,Residential,167377.56,2020-04-02,busy scenic emerging,smart_home parking storage,gated historic,3,3
+131,Residential,1190476.48,2022-04-05,remote mountain,security wifi,waterfront trendy midtown,2,4
+132,Residential,969742.84,2023-03-02,rural,garden furnished laundry,trendy historic,3,4
+133,Commercial,4101874.20,2023-05-29,historic rural,storage patio,rural quiet,1,4
+134,Residential,1506925.55,2021-07-13,affordable mountain,pool smart_home,diverse midtown,4,3
+135,Residential,84241.16,2023-06-18,quiet,landscaping cable parking,family_friendly midtown exclusive,0,2
+136,Residential,229417.31,2021-01-09,vibrant remote,smart_home pool,artistic diverse,1,5
+137,Commercial,2668732.32,2023-03-11,luxury quiet affordable,wifi laundry heating,family_friendly,3,1
+138,Commercial,2651306.96,2021-10-19,affordable vibrant suburb,parking gym,rural historic,4,2
+139,Commercial,2956972.70,2022-05-29,remote,fireplace landscaping,urban,4,5
+140,Residential,332262.90,2023-11-17,busy peaceful,patio parking,trendy artistic,5,3
+141,Residential,4538095.49,2021-02-05,rural downtown,air_conditioning landscaping,affluent vibrant,5,2
+142,Residential,186830.10,2020-11-01,rural affordable urban,elevator,family_friendly,0,2
+143,Residential,3438145.57,2023-08-17,historic accessible scenic,air_conditioning elevator,trendy,1,5
+144,Residential,1823560.60,2021-12-02,developed busy exclusive,kitchen laundry,exclusive uptown affluent,3,2
+145,Residential,365388.95,2023-12-29,affordable,cable,developing,5,1
+146,Residential,65667.90,2023-04-24,urban emerging,smart_home,quiet industrial diverse,4,1
+147,Residential,1962368.60,2023-10-27,scenic,parking,exclusive affluent trendy,5,1
+148,Residential,3998878.99,2022-03-13,quiet central,heating,developing uptown,3,1
+149,Commercial,1005256.69,2023-03-13,urban,gym wifi patio,vibrant,4,4
+150,Residential,149435.76,2020-09-07,accessible historic,gym,quiet,3,3
+151,Residential,3297240.29,2021-05-07,suburb busy,garden fireplace playground,gated,2,4
+152,Residential,2516421.91,2023-05-18,rural,furnished cable,waterfront affluent,3,1
+153,Residential,3654171.43,2022-12-18,historic busy,fireplace security,developing industrial urban,3,2
+154,Commercial,2009779.00,2023-11-16,scenic,garden gym furnished,gated,1,4
+155,Commercial,1211850.24,2022-05-08,developed,gym,uptown exclusive,3,0
+156,Land,1866368.25,2023-03-06,accessible peaceful,wifi,midtown diverse,3,1
+157,Commercial,2426025.77,2021-12-15,rural historic,parking landscaping pool,residential commercial,3,3
+158,Residential,438504.58,2023-02-22,downtown,smart_home gym laundry,midtown suburban,4,2
+159,Residential,73170.52,2023-12-27,peaceful accessible busy,gym cable,gated artistic,1,4
+160,Residential,355995.78,2021-01-19,luxury affordable,fireplace wifi,quiet,2,4
+161,Residential,193727.11,2023-04-07,remote,elevator landscaping garden,diverse gated,0,4
+162,Residential,1678047.22,2022-08-02,quiet emerging,fireplace cable garden,developing quiet historic,2,1
+163,Residential,3905127.96,2022-04-21,accessible quiet downtown,fireplace landscaping,vibrant artistic,4,0
+164,Residential,418757.27,2023-10-01,emerging,parking garden,exclusive,2,2
+165,Residential,3902021.87,2022-03-12,central downtown exclusive,laundry kitchen,commercial family_friendly trendy,3,4
+166,Residential,166109.98,2023-04-21,exclusive mountain,storage cable,diverse,4,3
+167,Commercial,2193757.87,2021-05-31,central affordable downtown,laundry kitchen,quiet gated family_friendly,3,3
+168,Residential,153816.21,2021-11-12,suburb developed,cable wifi,suburban developing artistic,2,2
+169,Residential,3968677.84,2021-04-13,modern developed,patio garden,exclusive developing uptown,3,2
+170,Commercial,1121493.88,2021-04-16,quiet modern remote,laundry security,rural,2,4
+171,Residential,595982.72,2021-02-28,central scenic,laundry patio,gated affluent,4,1
+172,Commercial,1099805.08,2021-01-28,central downtown suburb,balcony,residential vibrant quiet,3,4
+173,Residential,494576.45,2023-02-19,affordable vibrant exclusive,wifi smart_home pool,family_friendly,3,2
+174,Commercial,733651.76,2023-09-21,downtown suburb scenic,elevator security,downtown affluent artistic,0,3
+175,Residential,2783536.24,2020-02-06,modern,parking fireplace,gated,3,3
+176,Commercial,1507741.73,2020-02-07,urban scenic developed,patio,uptown,1,2
+177,Residential,53581.73,2021-10-26,busy,balcony,commercial waterfront industrial,4,2
+178,Residential,3403497.98,2023-06-27,busy vibrant accessible,wifi kitchen,rural commercial artistic,3,4
+179,Residential,980010.31,2020-09-08,affordable,laundry,developing industrial diverse,1,0
+180,Residential,1285771.23,2021-09-03,rural central mountain,heating,downtown uptown,5,4
+181,Residential,650424.36,2021-03-25,luxury historic,cable,residential affluent,3,3
+182,Commercial,3082917.12,2020-05-18,suburb scenic vibrant,pool wifi elevator,gated industrial suburban,3,3
+183,Residential,2131991.78,2022-07-06,affordable exclusive central,pool,urban,5,3
+184,Residential,3879489.14,2023-03-13,modern,furnished security,downtown,1,3
+185,Commercial,1699687.73,2020-12-11,scenic historic,landscaping wifi,gated exclusive urban,4,3
+186,Commercial,4724849.29,2022-08-16,vibrant modern,gym landscaping,uptown downtown,1,1
+187,Commercial,313963.01,2022-02-08,central,security,gated,3,3
+188,Residential,2014741.83,2023-12-04,downtown quiet historic,cable playground smart_home,rural suburban,3,3
+189,Residential,1319900.29,2023-10-07,central vibrant,pool parking fireplace,exclusive rural,4,2
+190,Commercial,1068264.40,2022-06-16,exclusive coastal,parking furnished,diverse,2,2
+191,Residential,3943905.85,2023-04-13,coastal,balcony landscaping,historic vibrant urban,3,5
+192,Residential,2818797.33,2022-06-17,mountain,gym security,residential affluent,4,0
+193,Residential,1375655.44,2020-02-07,historic,gym,developing,3,2
+194,Residential,2534849.63,2020-12-28,busy,garden patio,vibrant midtown family_friendly,1,1
+195,Commercial,3105606.29,2022-12-31,suburb remote downtown,playground,urban,5,1
+196,Residential,2119386.97,2022-11-04,affordable scenic mountain,pool,family_friendly developing downtown,2,1
+197,Commercial,233986.10,2023-06-16,luxury,laundry landscaping,quiet urban,5,2
+198,Residential,4750713.03,2020-03-23,busy developed,security storage,waterfront artistic,1,1
+199,Residential,999363.69,2023-07-03,central historic,storage landscaping,exclusive,2,2
+200,Residential,986197.26,2022-02-10,quiet affordable vibrant,furnished patio laundry,waterfront trendy,5,3
+201,Residential,1785092.97,2023-07-19,developed modern exclusive,pool garden,uptown commercial diverse,2,4
+202,Residential,1096790.05,2023-11-12,scenic vibrant,balcony,rural developing artistic,4,4
+203,Residential,622453.49,2022-07-13,remote scenic,security cable,midtown,0,4
+204,Residential,4134484.35,2020-12-08,remote,pool security,gated,2,5
+205,Residential,3664612.25,2022-08-11,downtown luxury suburb,landscaping balcony,midtown,3,4
+206,Residential,70293.46,2021-02-07,central mountain vibrant,wifi gym,urban commercial trendy,0,4
+207,Commercial,1034702.80,2022-01-15,emerging,gym heating fireplace,waterfront suburban,2,4
+208,Residential,97470.01,2023-05-23,scenic remote,parking,downtown gated affluent,1,2
+209,Residential,3550397.40,2022-04-08,emerging,furnished,commercial,2,4
+210,Residential,2304311.66,2020-08-01,coastal,patio air_conditioning landscaping,downtown midtown,4,4
+211,Commercial,947282.23,2020-06-03,luxury rural peaceful,landscaping cable wifi,commercial exclusive artistic,4,3
+212,Residential,4906771.48,2023-01-04,quiet suburb remote,wifi storage,midtown commercial affluent,2,3
+213,Commercial,3656465.95,2021-11-12,scenic,garden furnished,developing,4,5
+214,Residential,2410533.66,2022-09-25,coastal,parking wifi,waterfront residential artistic,4,2
+215,Commercial,798695.81,2023-02-09,mountain vibrant suburb,smart_home cable air_conditioning,commercial,3,5
+216,Residential,1694543.12,2021-10-15,coastal remote developed,patio balcony,rural commercial,4,5
+217,Land,1218764.46,2021-09-27,coastal remote vibrant,balcony,suburban industrial artistic,5,1
+218,Commercial,2683554.28,2020-08-27,exclusive accessible,parking fireplace kitchen,commercial industrial,4,4
+219,Residential,62328.56,2021-05-05,vibrant luxury,patio laundry smart_home,trendy rural,5,2
+220,Residential,2601146.72,2023-12-20,mountain,storage,residential,4,3
+221,Residential,113205.79,2020-06-21,suburb,balcony pool cable,rural suburban developing,1,1
+222,Residential,3710097.80,2021-01-17,accessible central modern,parking patio,industrial developing uptown,5,4
+223,Residential,802629.51,2023-10-10,emerging,playground,midtown gated,2,0
+224,Residential,68896.61,2020-03-14,luxury emerging,parking,exclusive,0,1
+225,Commercial,4148096.96,2023-07-30,quiet busy,elevator patio,suburban,4,4
+226,Residential,1934788.01,2020-04-29,rural,air_conditioning,uptown midtown family_friendly,2,4
+227,Residential,3763284.94,2022-08-19,quiet,furnished,family_friendly exclusive downtown,2,5
+228,Residential,701972.31,2020-11-23,affordable suburb quiet,landscaping furnished,midtown,1,5
+229,Land,186324.02,2021-07-12,downtown,furnished,uptown rural affluent,5,1
+230,Residential,1880679.60,2023-12-23,vibrant peaceful,laundry storage,trendy artistic diverse,3,3
+231,Residential,1795692.41,2023-07-28,luxury rural,smart_home security,affluent gated industrial,2,5
+232,Land,1023500.36,2020-12-30,coastal rural urban,heating,family_friendly midtown vibrant,3,1
+233,Residential,124798.21,2021-09-19,downtown,fireplace,midtown uptown urban,3,3
+234,Commercial,425737.06,2023-11-20,central coastal remote,storage,historic,0,4
+235,Land,1492944.59,2023-02-03,exclusive remote,balcony,downtown urban vibrant,1,3
+236,Residential,695665.39,2023-03-17,exclusive remote,kitchen smart_home furnished,developing vibrant uptown,4,1
+237,Residential,2044337.91,2023-12-29,emerging central,storage,residential,2,3
+238,Land,386647.99,2020-10-04,historic rural,garden,diverse,5,5
+239,Residential,1436212.91,2022-04-15,luxury exclusive,parking,developing rural urban,2,4
+240,Residential,411930.32,2022-12-26,emerging developed peaceful,landscaping air_conditioning elevator,affluent,3,2
+241,Residential,558661.35,2020-03-11,mountain quiet,elevator,exclusive,5,2
+242,Commercial,495901.67,2023-06-29,peaceful,smart_home kitchen furnished,commercial gated historic,2,1
+243,Residential,4750811.88,2022-08-15,central rural historic,kitchen,artistic trendy downtown,4,3
+244,Residential,387021.76,2023-08-02,mountain affordable,garden cable,residential commercial quiet,3,5
+245,Residential,4361430.84,2020-10-09,exclusive downtown,heating balcony landscaping,suburban downtown urban,4,3
+246,Commercial,719537.28,2021-05-31,mountain developed,laundry kitchen smart_home,rural waterfront,4,3
+247,Residential,1804019.47,2021-12-08,luxury affordable,kitchen heating patio,rural diverse midtown,2,3
+248,Residential,971922.08,2023-04-01,emerging quiet,kitchen air_conditioning parking,affluent rural,5,2
+249,Commercial,3802143.09,2022-08-31,peaceful luxury suburb,kitchen parking,historic quiet,2,1
+250,Residential,1429454.70,2023-07-13,rural historic,playground smart_home air_conditioning,vibrant,3,4
+251,Residential,511071.76,2023-07-03,peaceful modern,parking cable landscaping,affluent,0,0
+252,Residential,60814.10,2022-07-13,accessible,kitchen,gated waterfront,3,3
+253,Commercial,1500443.13,2021-06-28,affordable rural,security furnished,exclusive historic,1,1
+254,Residential,2771775.08,2021-05-24,suburb,patio smart_home heating,downtown,4,4
+255,Residential,2043653.08,2021-04-20,busy,storage cable,industrial,3,3
+256,Residential,225540.51,2021-11-10,vibrant emerging,laundry playground parking,exclusive,1,0
+257,Residential,1899741.00,2023-01-09,busy downtown suburb,parking garden,diverse,1,2
+258,Land,131080.76,2022-04-09,quiet,balcony gym kitchen,gated family_friendly artistic,1,1
+259,Residential,2961141.99,2022-02-23,urban accessible mountain,parking garden elevator,vibrant,1,3
+260,Residential,3374450.36,2022-10-23,peaceful luxury coastal,cable,industrial midtown uptown,1,3
+261,Residential,2402562.80,2021-01-22,vibrant,air_conditioning pool,historic midtown,0,1
+262,Residential,782984.27,2023-09-27,urban suburb exclusive,balcony laundry,quiet,3,2
+263,Residential,529003.30,2022-04-25,emerging developed busy,elevator,family_friendly,0,2
+264,Residential,633726.63,2023-10-29,remote,laundry garden furnished,waterfront exclusive,3,0
+265,Residential,58599.70,2021-01-09,peaceful,wifi,trendy suburban,3,4
+266,Residential,203643.95,2021-06-21,rural vibrant exclusive,storage,affluent,2,4
+267,Commercial,4964972.27,2022-10-18,central accessible emerging,patio landscaping air_conditioning,midtown industrial,4,2
+268,Residential,326325.53,2021-02-04,suburb urban,garden pool,historic,1,2
+269,Commercial,3228052.48,2020-04-20,coastal rural peaceful,pool parking,downtown urban,3,2
+270,Residential,97540.33,2023-07-29,exclusive rural modern,cable,trendy residential,3,0
+271,Land,2524611.97,2023-02-24,urban,security,diverse suburban historic,4,4
+272,Commercial,2906815.33,2020-06-08,quiet urban coastal,security smart_home storage,gated artistic,4,3
+273,Commercial,364896.21,2020-10-22,busy scenic suburb,elevator cable parking,affluent,4,4
+274,Residential,309805.81,2023-01-21,downtown suburb exclusive,wifi heating kitchen,rural,0,2
+275,Residential,111271.41,2023-10-22,accessible luxury,elevator pool fireplace,rural uptown diverse,3,2
+276,Residential,3865563.68,2021-10-08,luxury busy,pool,vibrant diverse,0,3
+277,Commercial,2709494.99,2020-03-30,rural vibrant,heating landscaping garden,gated artistic,3,0
+278,Residential,462973.74,2022-09-04,scenic,pool parking smart_home,family_friendly vibrant artistic,3,0
+279,Residential,462913.18,2022-03-30,coastal affordable suburb,security,residential uptown commercial,0,4
+280,Commercial,78106.75,2022-05-13,vibrant modern,patio parking pool,trendy gated quiet,2,0
+281,Residential,4989487.71,2022-11-13,vibrant emerging,furnished pool,artistic commercial diverse,3,5
+282,Residential,309040.12,2021-03-22,vibrant peaceful urban,laundry parking cable,downtown affluent waterfront,4,0
+283,Land,131620.15,2021-03-19,peaceful rural,playground pool,commercial,0,4
+284,Residential,205675.14,2021-12-07,scenic remote mountain,balcony,family_friendly trendy exclusive,4,3
+285,Residential,3005789.43,2023-10-22,affordable rural emerging,gym balcony,trendy rural historic,2,3
+286,Residential,910036.10,2020-07-06,developed,kitchen landscaping laundry,commercial exclusive gated,1,1
+287,Residential,2822882.69,2020-10-28,coastal,storage,affluent diverse,2,2
+288,Land,1096859.68,2023-05-12,emerging,heating,gated,1,2
+289,Residential,1907581.20,2022-09-29,mountain,garden security air_conditioning,historic family_friendly,2,1
+290,Residential,3422664.32,2022-03-17,vibrant modern busy,security garden landscaping,vibrant,0,3
+291,Residential,50288.54,2022-02-11,remote coastal,garden playground fireplace,affluent artistic,2,3
+292,Commercial,108067.07,2023-11-29,remote peaceful,smart_home,vibrant rural,2,4
+293,Commercial,4147036.81,2021-01-05,emerging urban,gym,vibrant uptown,3,1
+294,Residential,4588782.69,2021-04-30,central,cable furnished smart_home,rural exclusive,1,4
+295,Commercial,229701.73,2022-12-09,coastal developed vibrant,storage air_conditioning,waterfront vibrant,3,3
+296,Commercial,529340.24,2021-08-11,emerging historic,playground air_conditioning cable,diverse,0,4
+297,Residential,2852981.07,2023-10-19,mountain developed,landscaping fireplace cable,exclusive quiet,0,1
+298,Residential,124763.87,2022-12-04,vibrant,furnished,downtown,4,1
+299,Commercial,62962.56,2023-01-23,scenic,pool,diverse,4,1
+300,Residential,420853.21,2022-07-22,mountain,garden playground security,residential diverse,1,3
+301,Commercial,520987.35,2020-05-21,luxury peaceful,patio furnished cable,midtown,2,3
+302,Commercial,4630719.84,2023-09-17,mountain downtown peaceful,elevator air_conditioning pool,industrial affluent downtown,2,2
+303,Commercial,98110.84,2023-07-06,vibrant coastal,cable,suburban gated,4,3
+304,Residential,957961.89,2022-03-06,central coastal,kitchen garden,downtown waterfront commercial,5,3
+305,Residential,58410.20,2020-08-02,urban suburb affordable,kitchen,developing,4,1
+306,Land,4132290.77,2022-11-12,peaceful modern accessible,cable laundry wifi,waterfront uptown,5,3
+307,Residential,3589986.15,2023-08-12,coastal affordable developed,pool,midtown commercial waterfront,1,4
+308,Residential,91923.32,2022-12-19,remote emerging,pool garden,trendy,2,1
+309,Residential,61172.53,2022-08-14,exclusive,wifi,suburban trendy exclusive,3,2
+310,Residential,4521294.35,2023-03-19,affordable exclusive coastal,kitchen furnished,historic artistic vibrant,0,0
+311,Residential,2624650.99,2021-11-18,emerging,landscaping patio,vibrant downtown commercial,4,2
+312,Land,601841.44,2022-12-12,vibrant,pool garden storage,midtown developing,3,1
+313,Commercial,4121401.57,2023-10-22,modern vibrant,furnished playground garden,suburban,0,4
+314,Residential,1964696.08,2022-03-13,vibrant quiet remote,smart_home heating playground,industrial vibrant quiet,5,1
+315,Residential,237290.14,2023-12-27,modern,cable landscaping laundry,gated,3,3
+316,Residential,4588060.90,2020-07-29,accessible,gym,industrial artistic gated,1,2
+317,Residential,297106.69,2022-03-22,scenic rural,garden,quiet,2,3
+318,Residential,4203211.91,2021-07-24,exclusive coastal busy,kitchen playground air_conditioning,urban,2,3
+319,Commercial,1257591.30,2020-09-07,emerging peaceful,landscaping smart_home storage,exclusive,0,4
+320,Residential,397776.17,2020-12-06,central urban vibrant,landscaping,industrial diverse artistic,3,2
+321,Residential,382353.23,2022-10-25,urban scenic emerging,kitchen,industrial commercial waterfront,4,4
+322,Commercial,4522608.85,2021-09-04,modern,security elevator heating,suburban,2,1
+323,Residential,56362.27,2022-01-25,urban accessible scenic,garden balcony furnished,trendy,0,4
+324,Land,422863.34,2022-05-05,mountain,wifi patio pool,industrial developing family_friendly,1,3
+325,Residential,1044773.45,2021-08-13,urban modern,elevator patio,downtown suburban,2,3
+326,Residential,261769.93,2021-04-13,vibrant luxury remote,garden parking,family_friendly,3,3
+327,Commercial,472294.09,2020-09-09,scenic rural central,furnished patio,exclusive uptown,4,2
+328,Land,324095.63,2020-03-20,scenic affordable exclusive,cable elevator kitchen,developing industrial artistic,3,3
+329,Residential,1599006.98,2023-03-08,downtown,balcony,vibrant,4,5
+330,Residential,3396486.68,2021-05-14,rural emerging mountain,air_conditioning wifi,suburban family_friendly,4,1
+331,Commercial,546978.63,2021-08-24,emerging rural suburb,air_conditioning patio playground,developing suburban industrial,3,2
+332,Residential,4517001.59,2021-01-26,luxury urban,wifi,artistic diverse trendy,2,0
+333,Residential,299091.60,2023-08-19,vibrant,landscaping playground,developing,1,4
+334,Residential,4026361.38,2021-09-28,vibrant scenic,elevator,vibrant quiet diverse,1,4
+335,Residential,203931.49,2021-10-16,developed historic,gym cable,midtown,1,4
+336,Land,50830.86,2022-04-19,suburb urban quiet,garden furnished balcony,rural,5,1
+337,Residential,165408.23,2023-11-10,remote affordable,pool security,commercial urban downtown,2,3
+338,Residential,95000.75,2022-05-25,urban luxury emerging,air_conditioning garden security,rural,3,2
+339,Commercial,2804679.17,2022-08-14,remote quiet peaceful,kitchen security balcony,rural family_friendly affluent,0,4
+340,Land,132763.60,2023-08-25,remote modern peaceful,pool,vibrant,0,3
+341,Residential,2537880.39,2021-07-23,emerging urban mountain,fireplace balcony,downtown waterfront suburban,3,4
+342,Residential,2384795.80,2023-01-25,developed coastal accessible,furnished heating,developing suburban gated,1,4
+343,Residential,325911.25,2023-09-24,affordable exclusive,elevator,quiet gated,2,4
+344,Residential,3555170.86,2020-02-16,historic,balcony,midtown,2,4
+345,Residential,196142.57,2020-09-15,modern accessible vibrant,patio,diverse,4,3
+346,Land,1586556.64,2023-10-21,coastal mountain,storage,artistic family_friendly suburban,3,4
+347,Residential,88683.67,2020-11-14,emerging,heating playground,affluent exclusive,2,4
+348,Residential,4018506.42,2021-11-27,developed exclusive,gym wifi kitchen,commercial family_friendly,3,4
+349,Residential,111848.38,2021-05-13,affordable,balcony furnished,family_friendly,3,5
+350,Residential,3748624.80,2022-02-01,vibrant historic coastal,landscaping,artistic rural,0,5
+351,Residential,2746507.94,2022-05-10,busy emerging,garden,uptown artistic gated,5,3
+352,Land,3781833.94,2023-12-09,urban busy,landscaping parking,commercial artistic historic,2,4
+353,Land,4519979.76,2022-08-10,suburb,security cable,historic diverse industrial,3,3
+354,Residential,1576985.71,2022-03-05,scenic quiet,balcony smart_home furnished,gated,2,4
+355,Residential,51349.53,2023-07-26,peaceful central,pool cable playground,exclusive,2,5
+356,Residential,2310677.20,2022-02-09,peaceful,fireplace,urban,1,3
+357,Land,442752.09,2023-07-07,peaceful accessible,laundry heating smart_home,uptown midtown urban,1,4
+358,Residential,1444101.69,2021-05-10,coastal remote,pool patio,midtown,1,3
+359,Residential,4006178.54,2021-11-16,quiet developed urban,cable elevator,quiet suburban,4,3
+360,Residential,1685622.29,2023-10-09,emerging,security,artistic trendy uptown,1,5
+361,Residential,342446.68,2023-03-18,downtown accessible,security garden,urban exclusive historic,5,2
+362,Commercial,3856418.16,2022-10-02,modern busy historic,laundry elevator,industrial,0,2
+363,Residential,1326396.21,2023-09-09,scenic,heating balcony wifi,suburban,1,3
+364,Residential,460568.82,2022-01-30,mountain,patio,downtown rural,3,1
+365,Residential,891096.44,2023-10-01,coastal modern affordable,heating fireplace,uptown suburban downtown,4,3
+366,Residential,1144012.14,2023-01-08,downtown,kitchen security patio,family_friendly historic,2,0
+367,Residential,111030.20,2021-06-17,coastal scenic central,balcony fireplace,gated,1,2
+368,Residential,201497.26,2023-03-23,historic busy luxury,storage kitchen,vibrant residential,4,3
+369,Residential,384915.28,2021-11-05,busy,heating elevator,residential,5,1
+370,Commercial,225612.20,2020-06-28,modern,balcony playground furnished,developing waterfront,4,2
+371,Residential,2624907.82,2022-08-14,vibrant,landscaping patio smart_home,exclusive developing,4,3
+372,Commercial,700189.16,2023-05-25,luxury quiet,wifi kitchen security,midtown,2,2
+373,Residential,728097.09,2023-09-22,downtown mountain,cable garden playground,affluent,5,4
+374,Residential,71505.72,2021-10-30,accessible,air_conditioning,family_friendly,4,2
+375,Residential,2902808.07,2023-04-19,vibrant urban,balcony parking air_conditioning,rural family_friendly suburban,5,3
+376,Commercial,1227056.95,2023-04-20,central rural,pool heating parking,downtown,3,5
+377,Residential,1377747.78,2021-01-17,urban central,pool,downtown,1,1
+378,Residential,658765.52,2022-09-04,vibrant,gym,developing industrial vibrant,4,3
+379,Residential,214289.60,2023-10-11,peaceful scenic emerging,fireplace playground,suburban residential developing,5,4
+380,Residential,4293493.23,2021-06-02,scenic rural coastal,wifi patio landscaping,historic,2,1
+381,Commercial,841830.64,2023-08-30,downtown,elevator garden,uptown historic,2,5
+382,Residential,1036635.79,2020-07-31,remote,cable gym kitchen,waterfront,5,3
+383,Residential,3391368.56,2020-05-21,rural developed,playground heating security,downtown,3,3
+384,Residential,421169.83,2023-02-05,developed downtown coastal,security playground,gated rural vibrant,4,3
+385,Residential,190454.93,2021-05-07,mountain,storage cable,waterfront suburban,3,1
+386,Residential,3215264.53,2023-09-30,peaceful downtown,garden elevator,trendy vibrant gated,2,1
+387,Residential,3171943.54,2022-11-24,accessible scenic emerging,laundry security,trendy,5,0
+388,Commercial,50159.14,2023-12-27,urban emerging,furnished,family_friendly developing quiet,2,1
+389,Commercial,541692.36,2021-05-09,exclusive,furnished fireplace garden,suburban trendy,0,2
+390,Land,2560664.23,2023-05-29,peaceful,landscaping,vibrant artistic historic,5,3
+391,Residential,386316.54,2020-06-15,modern,garden smart_home cable,vibrant,4,2
+392,Commercial,4264502.79,2022-10-23,developed,pool,midtown,4,1
+393,Residential,77446.62,2022-11-13,rural peaceful historic,kitchen furnished,midtown diverse family_friendly,4,1
+394,Residential,50470.48,2023-06-27,exclusive vibrant,laundry fireplace parking,downtown historic uptown,1,5
+395,Residential,1842210.82,2022-11-14,emerging accessible,balcony furnished wifi,downtown affluent,1,2
+396,Residential,1337499.98,2022-09-27,rural,smart_home security,diverse artistic,4,4
+397,Residential,386916.35,2022-08-05,vibrant peaceful affordable,furnished wifi,exclusive downtown,4,3
+398,Residential,1067907.91,2023-12-11,suburb emerging mountain,fireplace gym,industrial,0,3
+399,Residential,4277428.07,2021-03-25,modern,balcony,commercial family_friendly,4,2
+400,Residential,2843145.40,2022-02-25,coastal remote,landscaping playground elevator,downtown residential family_friendly,1,2
+401,Residential,1923119.86,2023-05-24,mountain luxury,air_conditioning,historic,0,1
+402,Land,408103.40,2023-08-09,affordable luxury,balcony air_conditioning heating,gated,1,2
+403,Residential,2228083.24,2023-11-06,downtown peaceful,elevator,artistic,1,4
+404,Residential,3011300.89,2023-08-15,vibrant rural affordable,kitchen furnished,commercial,1,4
+405,Residential,216996.54,2022-09-01,historic affordable mountain,landscaping cable,midtown,5,5
+406,Land,2591613.58,2023-10-09,accessible,security smart_home furnished,waterfront,2,3
+407,Residential,443546.18,2023-03-31,scenic,wifi,suburban historic diverse,4,4
+408,Residential,357621.05,2020-10-19,suburb affordable mountain,parking,midtown commercial,2,5
+409,Residential,3938277.11,2022-08-30,affordable,gym fireplace pool,midtown vibrant rural,1,3
+410,Commercial,3418222.34,2021-08-15,urban affordable,security landscaping,historic family_friendly,2,1
+411,Residential,1489526.87,2022-01-06,remote exclusive,smart_home pool wifi,vibrant exclusive,4,1
+412,Residential,2853543.64,2023-08-05,central busy,landscaping smart_home,quiet residential affluent,2,4
+413,Residential,2130849.97,2020-12-14,exclusive accessible central,balcony security parking,gated,3,3
+414,Residential,593125.78,2022-01-03,emerging,wifi,vibrant,1,1
+415,Commercial,469748.42,2022-05-12,scenic rural luxury,landscaping garden,suburban midtown,2,1
+416,Residential,342117.20,2022-07-01,coastal,playground elevator fireplace,exclusive historic commercial,2,3
+417,Residential,4976580.05,2022-08-07,busy affordable,fireplace gym garden,vibrant developing,1,1
+418,Commercial,471730.62,2021-08-06,emerging accessible exclusive,cable,historic artistic,2,5
+419,Residential,3972606.14,2022-05-20,emerging quiet central,air_conditioning parking kitchen,residential commercial,2,3
+420,Residential,4507089.58,2023-11-13,suburb central quiet,cable kitchen,waterfront,5,1
+421,Residential,422202.82,2023-01-08,peaceful,gym,waterfront,3,1
+422,Commercial,217423.51,2023-12-31,urban,furnished,affluent trendy,3,1
+423,Residential,1907516.24,2021-09-05,remote vibrant,patio,urban diverse,4,3
+424,Commercial,4059461.09,2023-05-22,accessible affordable central,balcony,residential industrial,2,4
+425,Residential,1288004.68,2023-09-26,affordable busy mountain,heating patio,residential midtown rural,0,2
+426,Residential,3623363.01,2020-06-11,scenic coastal historic,smart_home,affluent,3,1
+427,Residential,1741450.10,2020-11-24,emerging,air_conditioning,vibrant,4,5
+428,Residential,4663821.37,2022-11-18,urban,security patio kitchen,diverse historic,0,2
+429,Residential,203010.66,2022-02-05,coastal vibrant,gym,diverse,1,3
+430,Residential,53852.01,2023-07-17,suburb exclusive busy,cable garden parking,suburban rural,4,1
+431,Residential,727762.62,2023-07-06,affordable rural,wifi playground,rural developing industrial,4,3
+432,Commercial,70981.79,2022-01-25,scenic modern,furnished balcony heating,developing,2,4
+433,Residential,3796991.88,2021-10-26,busy,patio storage cable,suburban,2,4
+434,Residential,60479.26,2020-09-14,busy,patio cable,developing,5,4
+435,Commercial,469592.12,2023-02-10,busy vibrant developed,balcony,artistic urban,2,4
+436,Commercial,2356659.12,2023-09-29,luxury busy scenic,smart_home gym,waterfront,3,1
+437,Land,76397.60,2023-07-09,central,elevator fireplace gym,gated trendy,1,5
+438,Residential,3742314.78,2023-02-15,remote emerging,heating air_conditioning,developing midtown waterfront,1,0
+439,Land,412917.79,2021-12-25,developed,garden playground laundry,uptown industrial vibrant,0,0
+440,Residential,3930799.60,2023-06-23,remote peaceful accessible,patio pool,midtown industrial,0,4
+441,Commercial,1232314.99,2022-08-09,rural scenic,laundry,industrial exclusive,4,2
+442,Residential,76790.63,2021-11-22,luxury,kitchen security,residential commercial,2,3
+443,Residential,364986.37,2020-04-02,scenic exclusive,furnished playground,midtown exclusive industrial,5,4
+444,Residential,3620102.03,2023-09-09,busy central,garden fireplace gym,rural industrial,2,1
+445,Land,110191.59,2023-06-13,central quiet,security cable,vibrant,2,1
+446,Residential,1112666.06,2023-11-30,quiet accessible,fireplace patio laundry,exclusive,2,3
+447,Residential,222234.47,2022-02-16,emerging,playground smart_home fireplace,quiet,1,1
+448,Residential,642185.27,2021-07-07,developed vibrant urban,elevator,suburban quiet,5,1
+449,Residential,1799255.78,2023-04-08,central,security cable,artistic midtown,5,4
+450,Residential,700022.77,2020-09-28,affordable modern,fireplace laundry,artistic exclusive,0,1
+451,Residential,2215497.59,2020-08-26,mountain vibrant,landscaping gym playground,industrial developing family_friendly,2,1
+452,Residential,153460.66,2023-08-18,historic affordable suburb,landscaping,suburban,5,3
+453,Commercial,2784553.82,2022-03-22,accessible,storage,waterfront urban diverse,4,2
+454,Residential,2632253.38,2021-03-01,developed,balcony,midtown industrial,3,1
+455,Residential,2508667.50,2023-05-15,remote scenic,air_conditioning,waterfront quiet,1,0
+456,Land,530855.01,2021-10-01,mountain coastal,landscaping,gated historic,4,4
+457,Commercial,421506.11,2022-08-20,vibrant,smart_home security wifi,downtown vibrant commercial,4,2
+458,Residential,812221.68,2023-08-31,developed accessible,storage,commercial affluent midtown,4,1
+459,Commercial,102131.17,2021-05-25,scenic modern,patio air_conditioning playground,affluent,1,4
+460,Residential,75891.45,2023-04-21,urban,garden,industrial suburban,0,1
+461,Residential,1015888.70,2022-08-10,affordable,storage playground,waterfront uptown family_friendly,2,5
+462,Residential,106282.45,2021-05-02,vibrant suburb affordable,landscaping air_conditioning,developing diverse midtown,1,4
+463,Residential,3835906.73,2021-06-01,affordable busy,heating smart_home,gated diverse,0,2
+464,Residential,717350.07,2022-12-18,remote,garden,gated,3,4
+465,Residential,148865.04,2023-02-19,scenic historic,parking kitchen,family_friendly,2,3
+466,Residential,509237.93,2020-12-18,coastal,fireplace balcony furnished,historic waterfront,3,2
+467,Residential,3257787.26,2023-12-20,downtown busy,wifi,artistic diverse,1,4
+468,Commercial,1635569.59,2023-05-30,urban,pool cable,vibrant,2,2
+469,Residential,1808669.15,2023-09-03,downtown developed rural,smart_home elevator gym,gated,2,5
+470,Residential,4673749.55,2021-06-01,urban,patio smart_home gym,commercial rural,2,3
+471,Commercial,173881.22,2021-11-16,rural modern central,elevator playground garden,developing industrial midtown,3,3
+472,Residential,3698143.79,2023-07-27,exclusive,smart_home balcony,exclusive,4,2
+473,Residential,622218.19,2020-08-03,developed accessible,parking security elevator,gated developing,0,3
+474,Residential,1359279.04,2022-01-06,suburb coastal,pool,exclusive suburban,1,4
+475,Residential,2055737.14,2022-08-06,suburb remote coastal,parking cable heating,family_friendly,1,1
+476,Residential,4593077.77,2023-08-26,luxury exclusive,cable,waterfront,5,4
+477,Residential,135778.31,2022-02-02,exclusive mountain,parking kitchen,affluent artistic gated,3,2
+478,Residential,186987.75,2022-08-25,luxury central,security patio parking,exclusive urban,4,1
+479,Commercial,1082792.31,2022-05-03,scenic,air_conditioning kitchen,commercial,4,4
+480,Residential,50203.09,2020-12-25,central downtown,wifi laundry balcony,industrial family_friendly uptown,2,3
+481,Commercial,174720.56,2020-05-23,developed busy,smart_home,suburban quiet developing,4,1
+482,Residential,3059037.05,2023-03-06,suburb coastal,balcony garden,family_friendly,4,2
+483,Residential,66706.59,2023-12-17,quiet,furnished landscaping,vibrant midtown,2,0
+484,Residential,3942330.08,2022-03-28,suburb quiet,patio pool,uptown industrial suburban,1,5
+485,Residential,3167534.96,2020-03-04,downtown,laundry wifi smart_home,uptown,1,2
+486,Residential,261465.70,2023-06-11,emerging exclusive historic,parking,industrial,2,1
+487,Residential,2074243.94,2021-12-24,urban,air_conditioning pool laundry,commercial urban,0,3
+488,Residential,198504.51,2022-10-04,downtown scenic central,parking,artistic trendy,1,1
+489,Residential,1544928.86,2022-07-05,luxury busy rural,playground,commercial,1,1
+490,Residential,69326.99,2020-12-22,exclusive,landscaping parking patio,trendy uptown,4,3
+491,Residential,2830810.41,2021-03-09,urban,pool patio parking,exclusive vibrant quiet,4,4
+492,Residential,3095649.45,2023-07-12,scenic vibrant urban,cable,artistic affluent,2,3
+493,Commercial,64966.18,2022-03-11,affordable,heating,downtown,4,1
+494,Residential,925165.68,2023-10-20,downtown coastal quiet,laundry furnished,vibrant artistic,4,2
+495,Residential,233315.33,2022-08-10,suburb vibrant busy,balcony gym garden,midtown developing rural,5,4
+496,Residential,2326750.21,2020-06-23,affordable,cable,historic,2,2
+497,Residential,64871.84,2021-06-16,scenic developed,heating,artistic vibrant family_friendly,2,3
+498,Residential,1854573.90,2021-11-06,emerging remote central,furnished landscaping storage,rural suburban uptown,3,2
+499,Residential,4941708.09,2021-01-13,accessible developed vibrant,patio gym,urban,3,4
+500,Land,3841499.40,2023-12-06,urban busy,pool parking,downtown,4,2
+501,Residential,1010171.74,2020-10-13,remote,balcony,midtown affluent,4,4
+502,Residential,151672.04,2022-10-31,suburb,storage,historic,5,1
+503,Commercial,2458914.86,2022-06-07,quiet,smart_home elevator,quiet artistic midtown,3,4
+504,Commercial,4920082.87,2023-07-25,central,smart_home balcony,uptown waterfront diverse,1,2
+505,Residential,4089758.55,2022-11-12,busy peaceful,storage,historic,2,1
+506,Residential,3513549.08,2022-11-09,rural,smart_home garden balcony,artistic waterfront developing,1,4
+507,Commercial,142343.92,2021-12-13,emerging,heating furnished garden,downtown vibrant trendy,3,5
+508,Residential,1070235.25,2023-11-23,scenic peaceful modern,wifi balcony smart_home,uptown gated,3,3
+509,Residential,2787716.18,2020-09-25,suburb,patio parking fireplace,artistic uptown family_friendly,3,5
+510,Residential,1796563.93,2023-12-28,central mountain developed,pool,urban artistic trendy,1,5
+511,Residential,65185.79,2022-01-20,suburb exclusive modern,patio security,vibrant trendy,4,1
+512,Residential,163945.67,2022-04-10,remote,parking security landscaping,rural,3,1
+513,Residential,2393161.75,2022-11-30,downtown,laundry playground,vibrant affluent artistic,1,3
+514,Land,1519655.66,2023-03-25,peaceful remote,furnished smart_home air_conditioning,industrial exclusive rural,1,4
+515,Residential,3002379.58,2021-08-28,suburb busy,elevator laundry playground,trendy uptown,3,3
+516,Commercial,1641915.74,2022-04-13,urban historic suburb,fireplace kitchen landscaping,diverse,5,3
+517,Residential,68160.92,2021-10-03,central accessible,storage landscaping,midtown,4,1
+518,Residential,129498.15,2021-10-04,affordable busy,gym air_conditioning laundry,trendy artistic historic,4,3
+519,Residential,3554222.81,2023-11-04,developed remote,smart_home,gated downtown commercial,3,1
+520,Residential,242278.74,2022-10-02,downtown luxury mountain,pool parking gym,developing,2,5
+521,Residential,441926.71,2021-07-25,urban,gym,affluent industrial waterfront,3,5
+522,Residential,4797863.46,2022-03-19,remote accessible historic,patio security storage,downtown,4,1
+523,Residential,85706.28,2023-12-19,downtown quiet,garden gym,commercial exclusive,4,1
+524,Residential,3555299.85,2023-10-25,central,fireplace storage smart_home,trendy artistic residential,2,5
+525,Commercial,111345.62,2021-07-29,urban accessible,patio,industrial affluent,2,0
+526,Land,2187051.18,2020-03-12,quiet historic urban,playground smart_home,trendy residential rural,1,2
+527,Residential,3246395.82,2020-02-03,coastal luxury downtown,storage,exclusive,2,1
+528,Residential,355368.24,2023-12-16,suburb remote busy,elevator wifi,suburban diverse uptown,0,3
+529,Residential,1138737.16,2023-03-24,developed,fireplace wifi,commercial,3,0
+530,Residential,3493306.68,2021-10-14,remote,wifi,trendy developing,2,3
+531,Residential,71051.49,2023-08-01,quiet luxury,air_conditioning,waterfront industrial residential,0,1
+532,Residential,1134378.16,2021-12-24,rural accessible affordable,garden balcony,exclusive suburban commercial,4,2
+533,Commercial,54355.90,2022-12-10,historic busy,pool gym balcony,diverse,2,3
+534,Residential,1304138.75,2023-04-19,mountain emerging,gym,uptown,4,2
+535,Residential,4039002.78,2020-01-31,developed peaceful modern,elevator fireplace,suburban exclusive rural,4,1
+536,Residential,4620783.68,2023-12-03,accessible,pool,rural diverse artistic,1,2
+537,Land,160897.35,2022-05-03,quiet scenic,laundry parking,residential,0,5
+538,Residential,56436.50,2021-05-02,vibrant mountain luxury,patio fireplace,waterfront trendy,5,3
+539,Residential,969732.28,2022-11-15,exclusive central,playground security heating,downtown,4,1
+540,Commercial,1724766.41,2022-05-06,modern exclusive downtown,landscaping,diverse,1,5
+541,Residential,780459.49,2023-09-13,quiet urban peaceful,playground,developing,3,1
+542,Residential,653993.18,2021-09-21,quiet,laundry,vibrant artistic,3,5
+543,Residential,600721.29,2022-01-21,suburb,smart_home kitchen,historic diverse,3,3
+544,Residential,2965101.36,2022-11-19,historic scenic central,fireplace,vibrant gated,3,4
+545,Residential,501102.20,2021-11-20,rural accessible,smart_home storage heating,exclusive uptown,3,2
+546,Residential,1837329.01,2023-05-29,vibrant urban,laundry,commercial vibrant gated,1,5
+547,Commercial,204761.49,2022-10-19,busy,parking playground,urban,5,2
+548,Residential,1551387.80,2021-09-06,rural,gym,midtown,1,4
+549,Residential,4422210.36,2022-09-07,peaceful emerging scenic,garden elevator wifi,urban waterfront,1,1
+550,Land,418664.78,2023-12-09,historic suburb,furnished fireplace garden,family_friendly,5,1
+551,Residential,1483932.11,2022-05-17,central,furnished,family_friendly downtown uptown,3,3
+552,Residential,455978.95,2020-09-04,quiet,security elevator,urban artistic diverse,2,1
+553,Residential,50632.36,2021-03-17,quiet downtown,patio kitchen,suburban exclusive,1,3
+554,Residential,282503.39,2022-10-08,accessible,landscaping,industrial,3,4
+555,Residential,3341953.19,2021-11-25,downtown mountain,landscaping patio,affluent,0,1
+556,Residential,3823860.72,2021-08-02,coastal,landscaping air_conditioning,industrial,4,5
+557,Residential,2485947.30,2020-12-01,busy downtown urban,patio security,historic downtown,4,4
+558,Residential,4211915.53,2022-10-14,rural coastal,elevator,exclusive suburban,1,3
+559,Residential,357042.58,2020-07-02,exclusive quiet,kitchen,family_friendly,4,5
+560,Residential,1588856.65,2023-08-02,emerging historic,security,waterfront midtown uptown,4,3
+561,Residential,1003802.07,2023-11-29,historic developed,wifi,residential waterfront,3,3
+562,Residential,2380083.45,2023-10-30,vibrant coastal,patio,diverse affluent midtown,5,2
+563,Residential,50415.69,2023-07-18,quiet remote developed,kitchen,diverse,2,1
+564,Commercial,4825989.71,2022-09-29,downtown central vibrant,parking,quiet family_friendly vibrant,3,1
+565,Residential,986863.49,2022-09-01,luxury coastal central,balcony patio,waterfront rural,4,3
+566,Land,1589653.23,2020-03-16,luxury modern mountain,air_conditioning patio,historic midtown,2,3
+567,Residential,902816.90,2022-10-25,accessible downtown central,laundry wifi landscaping,commercial diverse,1,3
+568,Residential,1429060.62,2020-06-04,vibrant developed exclusive,balcony garden,vibrant,4,2
+569,Commercial,4441146.54,2022-02-16,modern coastal,laundry,downtown,4,4
+570,Commercial,62303.85,2023-02-25,urban vibrant rural,furnished,waterfront suburban downtown,1,1
+571,Residential,989405.33,2023-10-21,accessible central coastal,playground,urban,3,2
+572,Commercial,1322885.71,2021-05-31,modern central quiet,elevator balcony fireplace,midtown gated,2,2
+573,Residential,2471176.47,2023-06-21,remote mountain,fireplace cable,historic urban gated,3,4
+574,Residential,3238809.67,2020-11-16,peaceful busy,cable security,downtown waterfront,4,1
+575,Residential,519039.87,2020-01-05,accessible emerging,gym,downtown affluent,1,3
+576,Land,4837343.69,2021-02-11,emerging,landscaping balcony,residential,5,4
+577,Residential,290017.71,2022-08-11,emerging vibrant quiet,garden laundry,rural,4,3
+578,Residential,4645595.35,2021-12-20,peaceful affordable accessible,garden smart_home laundry,diverse industrial affluent,4,1
+579,Residential,2928227.03,2023-11-01,urban peaceful,furnished patio storage,artistic,2,2
+580,Commercial,1033566.19,2020-11-11,accessible,security patio,developing midtown vibrant,3,5
+581,Land,4353965.14,2023-08-02,historic,storage,vibrant,1,2
+582,Commercial,2923295.91,2023-02-21,accessible modern,gym,exclusive,3,1
+583,Residential,1040505.71,2020-06-08,accessible suburb peaceful,fireplace laundry,gated,4,2
+584,Residential,338937.95,2023-02-19,historic suburb rural,parking storage,residential,3,2
+585,Residential,62975.14,2022-12-30,vibrant mountain suburb,pool,quiet waterfront uptown,3,4
+586,Residential,252551.70,2022-12-21,exclusive peaceful,playground,artistic,4,2
+587,Residential,1902183.41,2023-02-28,exclusive accessible mountain,storage air_conditioning,trendy commercial,2,3
+588,Residential,2003189.13,2022-02-11,downtown busy scenic,parking fireplace playground,historic developing,2,2
+589,Residential,1774809.93,2023-03-24,suburb downtown,air_conditioning gym,rural,4,0
+590,Commercial,425689.80,2021-05-16,luxury affordable vibrant,fireplace elevator landscaping,historic,2,4
+591,Commercial,59248.19,2021-10-20,scenic historic coastal,kitchen heating,suburban,4,1
+592,Residential,111227.09,2022-12-21,scenic,balcony wifi elevator,historic diverse,4,2
+593,Residential,4303155.57,2022-05-25,historic busy developed,kitchen,urban,3,2
+594,Residential,3061225.74,2020-08-16,luxury developed,patio garden,developing commercial,0,4
+595,Residential,459578.49,2020-05-26,developed,landscaping elevator,vibrant diverse,3,4
+596,Residential,328109.50,2021-06-27,urban,wifi storage,developing quiet,2,4
+597,Commercial,85727.94,2023-11-25,historic,cable laundry,developing uptown diverse,5,4
+598,Residential,120680.95,2021-02-19,exclusive peaceful,smart_home,artistic,4,4
+599,Commercial,2347531.77,2023-03-20,scenic mountain urban,landscaping playground cable,residential,2,0
+600,Land,1189947.34,2022-11-06,rural,wifi,family_friendly uptown,4,1
+601,Residential,1098732.14,2022-12-01,vibrant scenic,pool,artistic developing,3,1
+602,Residential,328581.37,2023-02-09,urban exclusive rural,patio parking laundry,residential gated historic,3,4
+603,Residential,3930767.68,2022-02-22,urban downtown rural,fireplace,uptown artistic developing,1,2
+604,Commercial,2420581.15,2022-12-09,coastal,fireplace,suburban,4,2
+605,Residential,3584910.01,2023-07-12,affordable suburb,furnished,historic,1,3
+606,Residential,2044420.87,2021-02-15,scenic,gym,uptown urban,1,1
+607,Residential,832678.99,2021-10-27,mountain,playground smart_home,artistic developing,4,1
+608,Residential,1531886.21,2020-04-30,affordable historic rural,fireplace wifi,developing artistic,2,3
+609,Residential,195227.18,2022-03-01,exclusive busy,heating furnished,exclusive,1,3
+610,Commercial,2201031.63,2023-10-22,affordable exclusive remote,garden wifi smart_home,rural uptown urban,4,0
+611,Residential,4624450.97,2023-04-11,remote affordable,landscaping storage,historic,1,4
+612,Residential,650005.11,2023-06-23,vibrant,playground,trendy artistic,1,3
+613,Commercial,1866347.55,2022-03-16,historic accessible,storage,uptown urban vibrant,2,1
+614,Residential,3108892.09,2023-04-08,affordable busy urban,gym laundry balcony,vibrant,2,2
+615,Residential,1135192.38,2020-12-07,affordable remote coastal,furnished,waterfront rural historic,5,3
+616,Commercial,190428.14,2022-05-28,accessible remote downtown,gym pool storage,artistic diverse family_friendly,2,3
+617,Residential,532682.69,2021-08-11,suburb,heating gym,artistic downtown residential,5,2
+618,Residential,1080905.86,2023-03-21,remote developed,storage kitchen,exclusive historic urban,0,3
+619,Residential,1871905.92,2023-12-07,rural busy developed,security,historic waterfront,0,1
+620,Residential,1376303.72,2023-10-09,scenic vibrant exclusive,cable kitchen parking,exclusive,2,0
+621,Residential,155572.76,2021-10-30,busy,storage,industrial gated waterfront,2,2
+622,Residential,50144.20,2021-04-05,rural,storage laundry gym,waterfront exclusive,4,4
+623,Residential,100323.41,2022-12-03,busy,elevator,quiet,3,3
+624,Land,541688.82,2022-10-18,downtown urban,balcony laundry kitchen,affluent diverse,1,4
+625,Land,2493070.52,2021-11-11,peaceful remote modern,garden cable furnished,developing,4,4
+626,Residential,299298.28,2023-04-27,accessible,fireplace,gated quiet developing,1,5
+627,Residential,1612747.67,2022-10-15,coastal,wifi smart_home balcony,diverse exclusive,4,3
+628,Residential,1484922.58,2022-12-18,downtown rural urban,kitchen,trendy,0,1
+629,Commercial,1788282.50,2022-12-20,remote,pool elevator laundry,suburban residential,2,2
+630,Residential,113784.37,2023-03-17,emerging rural,laundry garden,exclusive industrial commercial,5,3
+631,Residential,4476026.05,2021-07-11,quiet,cable pool,vibrant residential,3,0
+632,Residential,2140509.50,2022-04-08,urban,smart_home patio pool,industrial,0,2
+633,Residential,1651242.05,2022-11-20,developed accessible,landscaping smart_home,historic midtown,1,5
+634,Land,1558637.68,2023-08-08,central,balcony wifi,artistic residential rural,2,3
+635,Residential,4934483.24,2021-03-13,historic emerging,kitchen wifi,family_friendly midtown,0,5
+636,Residential,3030044.20,2022-05-15,developed,parking storage patio,uptown trendy,3,4
+637,Commercial,4086321.10,2022-07-05,accessible peaceful busy,pool parking kitchen,quiet developing artistic,4,3
+638,Residential,924520.41,2022-11-29,central developed,garden,diverse affluent,3,3
+639,Residential,147361.11,2023-03-02,peaceful accessible,landscaping storage,industrial,0,5
+640,Residential,1267050.31,2021-11-04,accessible,storage kitchen,urban uptown,2,2
+641,Commercial,730155.16,2020-09-16,accessible vibrant scenic,cable wifi air_conditioning,industrial,3,4
+642,Land,1978428.98,2021-12-14,quiet rural,air_conditioning cable gym,urban suburban uptown,1,0
+643,Residential,4766453.03,2021-04-18,accessible vibrant peaceful,patio,quiet developing gated,2,2
+644,Residential,220426.76,2023-07-18,mountain exclusive urban,parking,midtown commercial trendy,3,2
+645,Commercial,2564842.37,2021-10-26,developed luxury affordable,balcony,trendy downtown,3,1
+646,Residential,191567.66,2021-02-05,suburb busy,furnished,midtown gated industrial,2,0
+647,Commercial,316122.75,2023-02-15,mountain rural historic,air_conditioning,vibrant,5,4
+648,Residential,259981.64,2023-02-04,scenic remote,storage elevator security,historic affluent downtown,2,3
+649,Residential,1193525.68,2023-04-10,peaceful historic busy,garden gym,vibrant,2,3
+650,Residential,4171097.15,2022-05-23,accessible urban rural,pool landscaping,industrial residential,5,3
+651,Residential,956501.07,2023-03-19,quiet,pool parking,affluent historic,4,2
+652,Residential,3674852.94,2022-06-06,exclusive developed coastal,storage,vibrant,1,3
+653,Land,1455165.36,2023-03-18,urban coastal quiet,garden security gym,quiet artistic uptown,5,5
+654,Commercial,88067.39,2021-06-24,emerging,patio landscaping furnished,quiet,3,2
+655,Commercial,1617154.68,2023-01-23,scenic emerging,storage air_conditioning,developing quiet,4,0
+656,Residential,4234515.90,2022-06-22,suburb coastal,smart_home,family_friendly affluent,4,0
+657,Commercial,3357455.11,2023-01-03,central emerging suburb,elevator balcony,rural trendy affluent,2,2
+658,Residential,824161.17,2023-04-08,suburb exclusive luxury,parking gym laundry,affluent quiet downtown,3,4
+659,Land,800138.02,2023-09-11,suburb historic,balcony fireplace furnished,affluent,3,1
+660,Residential,2145341.02,2023-07-02,central luxury historic,heating balcony landscaping,gated,3,1
+661,Residential,4969535.15,2023-11-15,quiet developed,landscaping storage,downtown,3,3
+662,Commercial,4554155.08,2022-03-12,quiet central,laundry pool heating,midtown exclusive,5,4
+663,Commercial,299541.62,2020-02-11,remote accessible affordable,cable,trendy quiet,1,4
+664,Residential,1030623.22,2021-10-16,emerging modern,pool cable,artistic,4,3
+665,Commercial,4334894.44,2023-01-20,urban central,security smart_home,vibrant,5,0
+666,Residential,135005.07,2020-10-10,coastal downtown,garden balcony,affluent trendy uptown,0,4
+667,Commercial,263515.42,2022-09-23,remote suburb,patio parking balcony,developing midtown affluent,2,2
+668,Land,3956800.68,2022-05-03,remote rural,smart_home laundry security,vibrant trendy diverse,3,2
+669,Residential,489831.61,2021-06-29,peaceful scenic vibrant,laundry cable,affluent,2,0
+670,Residential,1335882.96,2020-08-05,mountain,elevator,diverse artistic midtown,1,4
+671,Land,139974.93,2020-07-06,historic urban,security elevator,developing quiet,4,4
+672,Residential,50792.82,2023-05-19,busy peaceful exclusive,smart_home,trendy,1,0
+673,Residential,404771.84,2023-01-12,quiet,laundry air_conditioning,diverse rural,3,5
+674,Residential,1983517.29,2020-09-07,accessible remote,fireplace,suburban quiet uptown,1,0
+675,Residential,2610362.78,2021-12-27,emerging exclusive busy,security elevator,residential family_friendly,2,5
+676,Residential,1973236.51,2023-08-26,developed accessible,wifi fireplace,waterfront,3,0
+677,Residential,1150484.67,2022-09-08,luxury,parking kitchen,trendy historic,3,2
+678,Residential,4984971.66,2021-08-09,quiet,gym elevator kitchen,artistic waterfront uptown,1,5
+679,Residential,2509206.81,2023-10-02,historic affordable downtown,kitchen cable laundry,affluent waterfront midtown,2,5
+680,Residential,344735.31,2021-11-12,accessible downtown,storage heating cable,downtown trendy,2,3
+681,Residential,2501005.49,2023-06-26,rural quiet,laundry cable,uptown,1,0
+682,Residential,82894.95,2023-01-10,quiet mountain,landscaping kitchen gym,suburban industrial,1,1
+683,Residential,1937739.66,2021-12-01,busy remote quiet,elevator,industrial,4,4
+684,Residential,4258998.63,2021-12-13,rural remote,playground smart_home,exclusive affluent,2,1
+685,Residential,281095.70,2020-03-19,downtown urban vibrant,landscaping balcony,uptown vibrant gated,4,1
+686,Residential,52582.33,2021-12-30,historic suburb,playground garden patio,industrial downtown suburban,2,1
+687,Residential,2507169.75,2021-09-02,vibrant developed,wifi air_conditioning pool,downtown midtown uptown,4,4
+688,Residential,3126535.68,2023-03-08,vibrant,pool elevator security,midtown diverse industrial,4,4
+689,Residential,395271.36,2021-04-02,luxury,garden,trendy artistic quiet,1,0
+690,Commercial,1197631.87,2023-09-04,developed exclusive affordable,furnished,uptown,0,3
+691,Residential,379095.85,2022-04-11,exclusive historic urban,garden smart_home heating,artistic,5,2
+692,Commercial,4733050.83,2020-06-11,peaceful mountain central,storage patio,trendy,1,2
+693,Residential,968447.90,2023-09-23,downtown urban modern,air_conditioning smart_home,waterfront vibrant,3,2
+694,Residential,983576.16,2022-02-07,rural,garden furnished,suburban affluent urban,0,2
+695,Residential,1857831.26,2020-01-13,downtown exclusive,cable kitchen wifi,suburban industrial,1,1
+696,Residential,4592687.17,2020-05-22,central,parking elevator,waterfront,5,1
+697,Residential,1314513.99,2020-10-15,busy,landscaping gym playground,waterfront affluent historic,3,5
+698,Residential,4478280.74,2023-08-25,downtown vibrant scenic,storage gym,historic commercial,2,1
+699,Residential,1069870.98,2022-03-27,remote peaceful urban,kitchen,suburban quiet,3,4
+700,Commercial,1914837.16,2020-07-27,urban affordable remote,heating storage,vibrant exclusive suburban,4,4
+701,Commercial,3416511.19,2023-06-12,central suburb,pool laundry,urban family_friendly,0,2
+702,Residential,527696.34,2021-01-21,accessible historic,furnished,downtown midtown,3,2
+703,Residential,50015.35,2023-03-16,vibrant exclusive quiet,playground balcony security,diverse affluent gated,3,0
+704,Residential,859191.85,2022-01-14,scenic emerging developed,patio,urban affluent downtown,4,4
+705,Residential,3408751.03,2021-03-12,downtown accessible mountain,fireplace security,uptown exclusive affluent,2,5
+706,Commercial,157148.63,2021-05-09,exclusive coastal affordable,garden fireplace parking,affluent,1,0
+707,Commercial,1031038.58,2022-03-17,scenic,pool heating air_conditioning,quiet,2,2
+708,Land,3463660.25,2022-12-13,downtown quiet historic,playground,trendy historic rural,0,5
+709,Residential,2044737.38,2022-04-15,peaceful,parking cable wifi,gated vibrant,3,1
+710,Residential,2266337.91,2022-01-08,accessible,air_conditioning,trendy,0,4
+711,Residential,332712.73,2021-01-23,central scenic,playground patio,quiet artistic commercial,5,0
+712,Residential,50481.08,2020-07-05,developed accessible,gym balcony air_conditioning,vibrant downtown,4,0
+713,Commercial,80957.03,2022-12-30,scenic suburb affordable,cable,residential historic,2,4
+714,Residential,1321436.30,2021-06-27,modern central rural,patio smart_home,uptown,3,2
+715,Residential,63327.09,2023-06-17,suburb affordable luxury,garden,historic,0,3
+716,Residential,705110.00,2023-12-05,emerging,furnished elevator storage,affluent quiet midtown,2,4
+717,Residential,3589130.45,2023-04-30,busy,storage heating playground,family_friendly,1,3
+718,Commercial,4858095.91,2021-04-16,suburb affordable,balcony smart_home,midtown,3,3
+719,Commercial,4987343.04,2022-05-09,historic,security cable,historic,4,5
+720,Residential,4597790.48,2020-10-10,historic,storage pool patio,diverse,3,3
+721,Commercial,80332.38,2020-12-13,historic emerging,balcony wifi,exclusive affluent vibrant,1,4
+722,Residential,1097102.67,2023-03-16,luxury urban,gym smart_home heating,residential exclusive,3,2
+723,Residential,4694624.65,2022-02-05,exclusive,patio furnished,artistic quiet affluent,2,3
+724,Residential,1094026.71,2020-10-25,downtown rural modern,parking air_conditioning patio,rural,2,4
+725,Residential,1004087.32,2022-02-20,emerging,smart_home balcony,industrial downtown,2,4
+726,Residential,64872.20,2022-06-25,accessible quiet developed,elevator,downtown gated,4,2
+727,Commercial,2027434.91,2022-08-24,mountain,air_conditioning landscaping elevator,historic quiet,4,4
+728,Residential,457908.36,2023-05-03,affordable,storage fireplace patio,uptown,2,1
+729,Residential,3760542.82,2023-12-24,luxury,garden gym wifi,vibrant developing waterfront,1,1
+730,Residential,4521955.19,2023-10-04,historic peaceful,garden,affluent gated,3,1
+731,Residential,2166240.48,2020-08-11,downtown coastal historic,cable gym parking,affluent,3,3
+732,Residential,2098316.86,2022-11-07,affordable coastal,gym parking furnished,rural,2,5
+733,Residential,2143217.02,2022-10-26,affordable urban,kitchen storage,affluent historic diverse,4,5
+734,Residential,3550396.52,2020-10-20,developed downtown remote,furnished playground,residential midtown,0,3
+735,Residential,2227132.20,2023-04-30,rural luxury,furnished laundry kitchen,downtown,2,0
+736,Residential,3269545.87,2020-02-13,exclusive coastal,fireplace air_conditioning pool,vibrant suburban,1,4
+737,Residential,848648.12,2022-01-08,emerging,elevator,diverse trendy historic,5,2
+738,Land,1279643.11,2022-06-10,peaceful,wifi,trendy downtown urban,1,2
+739,Commercial,623005.85,2021-05-19,emerging,parking air_conditioning patio,family_friendly commercial,4,1
+740,Commercial,3868778.24,2023-10-27,exclusive quiet,heating storage laundry,historic,3,2
+741,Residential,70524.41,2020-02-04,exclusive,heating kitchen,trendy quiet rural,3,1
+742,Land,711334.39,2022-01-07,mountain accessible,storage parking heating,vibrant diverse,3,4
+743,Residential,4757340.09,2020-12-21,remote,heating storage wifi,rural vibrant,3,4
+744,Residential,3990649.47,2023-07-12,suburb modern historic,garden,downtown waterfront developing,4,5
+745,Residential,3658014.60,2023-06-27,rural,patio landscaping playground,gated residential,5,1
+746,Residential,2208088.81,2023-03-11,quiet,landscaping,diverse,3,1
+747,Commercial,183286.06,2022-12-24,modern,patio,uptown downtown,1,2
+748,Residential,571767.82,2023-12-26,rural downtown luxury,wifi,waterfront,1,4
+749,Residential,2985296.04,2022-09-12,luxury downtown,landscaping balcony furnished,rural urban exclusive,4,0
+750,Residential,4036701.29,2020-07-17,mountain,smart_home,family_friendly,4,2
+751,Residential,4150593.62,2023-01-20,emerging vibrant affordable,storage kitchen elevator,suburban rural,5,5
+752,Residential,2806366.65,2022-06-21,coastal,fireplace furnished,industrial downtown waterfront,3,2
+753,Residential,3258177.59,2020-11-13,peaceful emerging,gym,exclusive developing quiet,5,1
+754,Residential,2382287.20,2020-08-22,coastal vibrant,wifi,historic uptown quiet,1,5
+755,Residential,4752306.32,2023-04-08,affordable rural quiet,pool air_conditioning fireplace,gated industrial suburban,4,4
+756,Commercial,4205394.51,2021-11-25,peaceful accessible central,patio cable playground,trendy midtown rural,3,1
+757,Residential,3705488.26,2022-03-27,central,security kitchen,developing,4,3
+758,Commercial,148424.24,2022-06-12,vibrant luxury,kitchen,affluent,2,4
+759,Residential,428470.22,2020-11-17,accessible,laundry patio,affluent,1,2
+760,Commercial,359228.43,2022-04-26,luxury busy,playground pool landscaping,rural,1,3
+761,Commercial,1375651.86,2022-05-30,developed peaceful,playground cable,downtown suburban rural,0,4
+762,Residential,4638863.95,2021-06-11,downtown historic,laundry patio,historic downtown,1,2
+763,Residential,3165353.45,2021-08-08,coastal vibrant,garden balcony gym,affluent,4,1
+764,Commercial,455124.54,2021-12-02,affordable downtown,elevator,quiet historic,3,4
+765,Residential,3541975.10,2023-10-29,developed urban suburb,elevator wifi playground,industrial gated,1,1
+766,Residential,893521.02,2020-07-19,coastal urban,parking,downtown urban artistic,4,1
+767,Land,2279956.54,2020-01-15,downtown developed modern,gym wifi fireplace,diverse,5,3
+768,Commercial,1241794.14,2021-05-10,luxury,heating security,vibrant gated historic,4,5
+769,Residential,4835631.86,2021-08-22,remote busy,wifi gym furnished,exclusive gated industrial,2,3
+770,Residential,2487861.60,2021-01-08,modern emerging,patio security,affluent downtown historic,1,2
+771,Residential,3579150.61,2023-03-31,urban remote luxury,parking,residential,1,2
+772,Residential,163071.16,2023-03-30,emerging modern remote,kitchen playground smart_home,midtown affluent,5,2
+773,Commercial,621692.59,2022-05-28,downtown scenic,landscaping cable,suburban downtown urban,0,3
+774,Land,201487.87,2023-02-18,luxury central,gym pool,urban residential,2,1
+775,Residential,2194540.99,2020-12-06,modern busy affordable,fireplace landscaping,gated diverse quiet,1,1
+776,Residential,3034137.62,2021-06-20,urban downtown busy,security heating fireplace,artistic waterfront trendy,2,3
+777,Residential,269975.82,2020-11-23,mountain peaceful coastal,fireplace playground balcony,exclusive urban artistic,5,5
+778,Residential,1118859.11,2023-04-03,remote scenic luxury,wifi elevator,quiet exclusive residential,0,1
+779,Commercial,895713.08,2021-05-18,vibrant remote,storage patio playground,urban,4,5
+780,Residential,2745668.82,2023-05-05,central,smart_home balcony,diverse historic artistic,4,3
+781,Residential,4337988.74,2022-03-17,coastal central,wifi fireplace pool,trendy commercial artistic,2,4
+782,Residential,3285726.29,2021-04-10,coastal,cable wifi smart_home,quiet uptown family_friendly,4,1
+783,Land,2072267.51,2021-03-20,rural,fireplace,residential uptown,3,1
+784,Residential,4397272.93,2021-12-29,historic downtown remote,garden smart_home,gated diverse developing,5,1
+785,Commercial,267296.11,2021-07-25,accessible quiet peaceful,elevator parking storage,downtown,2,1
+786,Residential,1048840.76,2023-04-09,rural scenic,balcony patio,urban residential vibrant,2,2
+787,Commercial,2212093.15,2023-04-19,affordable,fireplace laundry security,waterfront industrial rural,5,2
+788,Residential,4720759.00,2022-10-22,rural,patio,trendy suburban,4,3
+789,Residential,4314030.77,2020-10-14,urban developed scenic,heating,commercial,2,3
+790,Commercial,934731.56,2023-02-01,remote busy,balcony,waterfront gated,3,5
+791,Residential,86488.89,2022-06-20,modern exclusive quiet,pool,residential downtown,2,5
+792,Residential,52768.69,2021-07-24,suburb busy,landscaping patio fireplace,midtown,4,2
+793,Commercial,327104.64,2022-08-08,scenic busy developed,pool,developing,3,3
+794,Residential,583364.75,2020-07-04,remote central emerging,wifi,vibrant quiet,3,3
+795,Commercial,2309826.28,2021-08-18,scenic luxury,playground gym landscaping,family_friendly waterfront,5,2
+796,Commercial,3774466.29,2021-01-16,quiet,balcony fireplace playground,midtown,5,5
+797,Residential,345530.28,2021-02-21,quiet,furnished smart_home balcony,affluent diverse rural,1,0
+798,Residential,1501628.17,2023-12-30,modern busy coastal,playground,developing trendy,4,3
+799,Residential,1452555.24,2020-07-12,affordable downtown,laundry garden pool,commercial quiet historic,3,0
+800,Residential,968966.90,2023-04-18,accessible coastal affordable,wifi air_conditioning pool,artistic,3,1
+801,Commercial,2028482.42,2023-11-21,downtown,security parking,rural commercial,3,2
+802,Residential,4139480.83,2023-07-07,central exclusive,laundry heating playground,trendy,2,2
+803,Residential,54194.72,2022-08-11,downtown exclusive,cable patio,historic quiet,1,2
+804,Residential,1728772.33,2023-03-31,suburb scenic,smart_home air_conditioning furnished,commercial gated,3,1
+805,Residential,3121081.06,2022-11-25,peaceful urban,balcony,midtown,3,2
+806,Commercial,77280.23,2022-08-18,rural accessible,balcony smart_home,urban industrial,4,3
+807,Commercial,2582598.69,2023-07-23,luxury emerging suburb,parking balcony laundry,gated commercial,0,1
+808,Residential,3149732.11,2022-08-16,suburb mountain quiet,patio,exclusive downtown industrial,2,1
+809,Commercial,654390.97,2022-01-23,suburb modern,gym kitchen playground,gated,1,4
+810,Residential,1924860.56,2020-03-26,busy,security elevator storage,affluent midtown,4,4
+811,Residential,1027842.66,2023-10-27,central rural developed,wifi garden patio,residential,0,3
+812,Residential,954999.11,2022-06-21,rural central coastal,balcony,vibrant quiet commercial,2,1
+813,Residential,4237685.19,2021-08-15,exclusive emerging,parking,trendy affluent residential,2,5
+814,Land,686251.35,2023-08-11,downtown coastal exclusive,patio fireplace,vibrant,0,4
+815,Residential,709376.48,2023-06-30,remote,patio air_conditioning,uptown,2,3
+816,Residential,87252.86,2023-02-22,modern,smart_home patio,industrial,2,3
+817,Commercial,3915163.34,2022-06-17,mountain,patio,exclusive trendy,0,3
+818,Commercial,487216.41,2021-01-28,emerging,heating security,suburban,4,1
+819,Commercial,128790.19,2021-04-09,rural accessible,cable garden furnished,historic affluent,1,3
+820,Residential,4894299.92,2021-07-16,historic exclusive emerging,patio cable,urban quiet,5,3
+821,Residential,789946.06,2020-07-09,mountain peaceful remote,air_conditioning garden landscaping,urban waterfront,2,2
+822,Residential,3168166.78,2023-02-02,exclusive mountain downtown,kitchen air_conditioning elevator,suburban industrial trendy,1,4
+823,Residential,261057.85,2021-07-26,quiet busy coastal,heating garden elevator,developing downtown,2,5
+824,Residential,3358560.03,2023-05-24,downtown rural,balcony,waterfront suburban vibrant,4,3
+825,Land,572281.84,2022-05-30,scenic,air_conditioning,historic midtown,1,1
+826,Residential,3769534.98,2022-02-25,mountain peaceful,pool,artistic,4,4
+827,Residential,4674444.84,2021-07-29,luxury urban vibrant,kitchen parking playground,midtown affluent,1,3
+828,Land,3359672.32,2023-03-11,accessible rural suburb,wifi heating balcony,rural,2,1
+829,Residential,2523395.20,2022-05-16,emerging urban remote,wifi gym,urban,4,3
+830,Residential,4635205.96,2021-02-19,historic urban,heating,artistic,4,2
+831,Residential,3204704.90,2021-03-15,urban,pool garden,affluent exclusive urban,1,4
+832,Residential,4668624.63,2023-11-26,exclusive busy,air_conditioning pool playground,uptown exclusive,1,2
+833,Residential,3385886.89,2022-10-09,central,garden fireplace,rural,4,4
+834,Commercial,942435.94,2023-10-15,busy quiet mountain,heating elevator laundry,gated residential,0,2
+835,Land,1560155.13,2023-11-09,modern,pool storage patio,uptown residential developing,3,1
+836,Residential,659184.60,2020-10-12,peaceful modern,smart_home laundry,quiet,4,3
+837,Residential,117961.39,2022-03-11,central suburb developed,landscaping balcony security,residential suburban midtown,0,0
+838,Residential,50267.47,2020-02-17,downtown developed affordable,playground balcony parking,historic vibrant,3,2
+839,Residential,1770989.87,2023-01-11,remote vibrant rural,elevator gym storage,rural,0,2
+840,Residential,634338.93,2023-01-18,modern mountain remote,playground landscaping,affluent suburban trendy,0,5
+841,Residential,206705.97,2023-02-11,downtown,patio security,urban quiet,1,1
+842,Residential,310940.55,2022-07-04,central,cable air_conditioning,affluent,3,4
+843,Residential,417372.52,2021-03-10,downtown,cable,quiet,2,0
+844,Residential,859946.72,2022-09-19,accessible,pool,commercial,4,3
+845,Residential,1709135.37,2023-08-05,historic vibrant,landscaping,vibrant historic,0,2
+846,Commercial,1798202.36,2023-06-11,suburb rural luxury,pool,historic urban,1,2
+847,Residential,606019.50,2023-07-31,historic central downtown,fireplace elevator,quiet,4,2
+848,Residential,267051.30,2023-09-07,scenic,elevator,family_friendly quiet gated,1,4
+849,Commercial,1864960.84,2021-09-21,quiet historic urban,furnished landscaping,quiet midtown,5,0
+850,Residential,84005.03,2020-02-02,central vibrant quiet,furnished gym,affluent,4,1
+851,Residential,52923.44,2022-02-15,luxury,balcony,developing gated,4,1
+852,Commercial,4010430.03,2022-01-26,historic modern,heating wifi,suburban developing,2,5
+853,Residential,3246021.95,2020-07-17,urban,storage,midtown commercial,1,4
+854,Residential,4031806.61,2021-12-11,remote modern busy,balcony heating kitchen,affluent midtown rural,1,3
+855,Residential,2456524.23,2022-12-04,suburb accessible busy,landscaping furnished patio,residential uptown,1,1
+856,Commercial,85125.45,2020-02-16,rural busy,furnished,midtown family_friendly rural,5,2
+857,Residential,1740347.07,2023-11-03,busy quiet,parking,diverse,5,2
+858,Residential,117425.38,2022-07-17,busy,storage playground,urban industrial,2,1
+859,Residential,4952719.85,2022-05-15,central accessible,pool laundry,commercial waterfront midtown,4,3
+860,Commercial,4340522.52,2023-08-24,scenic,pool air_conditioning parking,uptown diverse rural,0,2
+861,Residential,918713.13,2021-03-14,central,air_conditioning heating,waterfront exclusive residential,2,3
+862,Commercial,114329.53,2021-01-31,developed,pool heating furnished,quiet,0,1
+863,Commercial,1123787.82,2023-05-21,accessible,landscaping garden,midtown gated downtown,2,0
+864,Residential,157708.94,2023-08-25,peaceful,air_conditioning heating balcony,waterfront gated,1,1
+865,Residential,1039919.75,2022-05-25,rural exclusive,garden balcony,suburban trendy quiet,1,2
+866,Residential,2588356.86,2023-11-26,central historic,balcony garden,family_friendly,3,3
+867,Commercial,4034131.35,2020-11-24,busy exclusive affordable,playground,industrial commercial quiet,3,2
+868,Residential,3662666.41,2020-09-23,accessible,elevator landscaping air_conditioning,rural gated,2,3
+869,Commercial,881621.87,2023-05-28,emerging busy,pool,midtown developing suburban,2,0
+870,Residential,1019752.35,2022-05-28,urban peaceful,smart_home,vibrant rural,0,1
+871,Commercial,4969818.76,2021-08-07,historic mountain,balcony,industrial historic,3,1
+872,Residential,2043203.74,2020-07-23,luxury,air_conditioning heating,residential family_friendly,3,0
+873,Land,1746116.28,2021-11-10,peaceful,patio playground elevator,exclusive residential,0,0
+874,Residential,1373662.30,2020-09-07,remote quiet modern,kitchen fireplace wifi,waterfront suburban exclusive,0,2
+875,Residential,3197520.34,2022-03-16,developed downtown,security furnished patio,exclusive,3,1
+876,Residential,2176539.99,2022-07-14,developed remote,laundry furnished,family_friendly urban,3,2
+877,Commercial,303699.32,2023-09-26,luxury urban,playground pool storage,rural developing urban,4,3
+878,Residential,746207.82,2022-09-09,vibrant developed,furnished,urban,1,0
+879,Residential,725599.56,2020-03-30,rural affordable,pool garden laundry,artistic quiet,3,4
+880,Residential,4359898.14,2023-04-08,suburb rural vibrant,gym,artistic commercial,3,1
+881,Residential,3296217.10,2020-02-10,suburb emerging developed,heating patio,quiet vibrant exclusive,5,2
+882,Residential,4512508.90,2022-05-26,coastal peaceful modern,smart_home,diverse developing,1,1
+883,Residential,376713.08,2023-08-27,accessible,heating pool,artistic diverse,1,1
+884,Commercial,628874.78,2020-07-22,busy developed suburb,heating,vibrant residential waterfront,2,1
+885,Residential,3554402.02,2023-12-13,scenic,elevator,downtown vibrant historic,2,3
+886,Residential,666296.66,2022-07-03,downtown coastal,storage laundry wifi,family_friendly quiet,4,1
+887,Commercial,168548.63,2021-11-17,downtown,security storage,diverse residential downtown,3,2
+888,Residential,2674795.18,2021-09-14,scenic peaceful,cable furnished kitchen,affluent quiet family_friendly,3,1
+889,Residential,524749.55,2021-03-28,quiet vibrant,playground smart_home,trendy urban developing,4,4
+890,Residential,4435284.14,2020-11-28,mountain historic,landscaping,commercial,3,3
+891,Land,2266306.39,2020-09-25,developed coastal modern,playground garden,urban,0,4
+892,Commercial,2826723.75,2020-03-28,vibrant historic,balcony smart_home,family_friendly quiet,3,1
+893,Commercial,4809433.34,2020-05-01,rural,smart_home,developing waterfront trendy,1,4
+894,Residential,517658.81,2023-07-28,historic downtown quiet,patio pool,historic industrial,5,3
+895,Residential,138791.71,2023-07-29,rural peaceful busy,kitchen air_conditioning landscaping,gated diverse developing,5,4
+896,Residential,267585.78,2021-01-07,historic busy,furnished landscaping,trendy midtown,5,5
+897,Residential,943264.19,2023-06-08,rural,elevator gym furnished,artistic,5,2
+898,Residential,1067259.71,2022-10-15,suburb downtown,wifi storage,vibrant,1,2
+899,Residential,51317.62,2020-10-17,affordable,laundry heating security,gated waterfront uptown,2,1
+900,Residential,3219491.22,2022-08-17,exclusive quiet,balcony,quiet affluent,1,5
+901,Residential,3785837.95,2020-06-12,accessible,playground fireplace storage,urban,4,4
+902,Land,782940.35,2021-09-28,affordable,garden,developing uptown,4,4
+903,Residential,3648526.26,2022-09-01,busy peaceful developed,storage cable garden,industrial trendy,2,2
+904,Residential,107460.72,2022-02-23,quiet busy,fireplace,developing suburban affluent,3,2
+905,Residential,1640050.80,2023-11-27,quiet historic coastal,elevator landscaping patio,residential uptown affluent,2,4
+906,Residential,50487.14,2022-05-06,exclusive mountain,pool patio,family_friendly quiet artistic,5,1
+907,Residential,328663.19,2022-04-27,coastal,gym parking heating,trendy uptown gated,4,2
+908,Residential,2523164.84,2021-07-20,historic remote mountain,security,downtown gated,2,3
+909,Commercial,404851.05,2021-06-20,modern,cable security,commercial artistic suburban,4,2
+910,Residential,1335869.31,2022-10-31,historic quiet scenic,security,artistic developing urban,3,0
+911,Land,57355.91,2023-11-12,developed peaceful suburb,playground gym parking,urban diverse historic,0,3
+912,Residential,4272066.24,2023-02-11,quiet downtown,heating,suburban,1,5
+913,Residential,3638117.65,2023-04-03,suburb peaceful scenic,pool heating,trendy industrial,2,3
+914,Residential,665818.04,2022-08-12,peaceful quiet vibrant,heating,developing,4,1
+915,Residential,3014319.58,2023-04-12,busy suburb,smart_home landscaping fireplace,gated vibrant midtown,1,4
+916,Residential,3499640.85,2023-11-13,accessible luxury,playground security elevator,trendy waterfront uptown,4,4
+917,Residential,1041860.36,2023-07-21,accessible modern developed,fireplace pool parking,midtown waterfront family_friendly,5,5
+918,Residential,2308640.43,2023-12-16,quiet busy remote,cable playground,residential commercial,2,4
+919,Residential,2494993.59,2023-11-03,affordable luxury rural,air_conditioning,midtown diverse historic,2,1
+920,Residential,2248336.36,2023-03-11,downtown busy,gym,gated,4,1
+921,Residential,82699.05,2023-10-18,affordable scenic rural,pool,gated rural,4,1
+922,Residential,922049.89,2022-12-16,exclusive,kitchen gym,developing,2,4
+923,Residential,628026.90,2021-12-07,emerging accessible downtown,kitchen cable playground,uptown,4,2
+924,Commercial,59524.70,2021-04-29,urban historic,elevator cable,industrial,3,3
+925,Residential,3955836.51,2023-08-26,coastal urban modern,kitchen storage garden,gated trendy,1,5
+926,Residential,1527275.38,2022-06-23,peaceful,cable furnished garden,diverse artistic,3,1
+927,Residential,1010381.93,2022-10-31,mountain,wifi laundry,exclusive artistic industrial,5,5
+928,Residential,695217.17,2020-12-11,emerging,kitchen,suburban,2,3
+929,Residential,912112.64,2021-09-15,modern,laundry playground,uptown,3,2
+930,Residential,516764.49,2023-10-04,vibrant,storage,historic,1,3
+931,Residential,1296914.68,2023-10-08,exclusive modern developed,elevator storage laundry,gated midtown,3,1
+932,Residential,3910871.32,2023-09-12,quiet vibrant,cable laundry,trendy,5,3
+933,Land,98086.99,2022-11-17,suburb developed urban,air_conditioning,urban,1,1
+934,Commercial,3558600.30,2022-10-13,coastal vibrant,storage parking,diverse,0,1
+935,Residential,2094434.29,2020-06-08,accessible suburb vibrant,fireplace garden landscaping,industrial midtown,3,4
+936,Residential,2988540.36,2023-05-30,luxury,furnished heating fireplace,downtown family_friendly suburban,2,4
+937,Residential,4185141.12,2020-08-06,downtown busy,heating,waterfront,1,2
+938,Residential,517618.25,2022-10-23,scenic exclusive,gym kitchen,residential industrial,0,2
+939,Residential,2339221.61,2021-10-22,modern scenic remote,playground fireplace air_conditioning,waterfront,1,3
+940,Residential,742307.97,2022-03-28,accessible,gym cable garden,waterfront,4,1
+941,Residential,1704917.28,2023-11-14,coastal,garden balcony,midtown affluent,1,1
+942,Residential,284319.09,2021-07-20,historic,balcony storage parking,quiet industrial commercial,2,3
+943,Residential,3451406.99,2021-04-28,exclusive affordable urban,gym storage wifi,quiet diverse family_friendly,5,2
+944,Residential,1748264.47,2022-04-04,urban,laundry patio smart_home,midtown,4,1
+945,Residential,50000.27,2023-10-29,modern coastal accessible,air_conditioning,industrial suburban,1,3
+946,Residential,183671.52,2021-08-06,historic exclusive emerging,heating elevator furnished,gated downtown vibrant,1,2
+947,Residential,3325980.58,2022-04-07,downtown busy,garden landscaping,quiet diverse gated,2,0
+948,Land,523385.66,2021-10-04,mountain quiet,air_conditioning furnished smart_home,midtown artistic waterfront,2,5
+949,Residential,68433.34,2020-04-19,urban coastal,landscaping,uptown rural gated,2,3
+950,Residential,359279.15,2022-10-24,modern central,kitchen playground air_conditioning,urban family_friendly rural,1,3
+951,Residential,70493.75,2022-12-24,coastal quiet historic,elevator patio cable,gated midtown quiet,4,2
+952,Residential,3347795.23,2023-06-05,emerging affordable,balcony pool security,affluent developing rural,4,4
+953,Residential,416064.03,2020-01-08,rural downtown scenic,laundry security,commercial,3,3
+954,Residential,4588203.71,2020-04-25,downtown,security kitchen air_conditioning,uptown,4,1
+955,Land,460144.79,2022-07-17,exclusive,garden elevator kitchen,downtown urban,2,5
+956,Commercial,1719520.86,2021-05-27,rural,air_conditioning,family_friendly midtown vibrant,4,5
+957,Land,3180248.04,2023-07-13,rural remote emerging,playground patio wifi,family_friendly vibrant waterfront,5,1
+958,Residential,102655.64,2022-12-21,scenic central,cable wifi parking,diverse uptown gated,1,1
+959,Land,90788.02,2021-08-03,rural mountain historic,wifi heating security,gated,1,0
+960,Residential,4331086.78,2022-12-09,coastal remote historic,air_conditioning balcony pool,urban,2,1
+961,Residential,3843398.43,2021-03-29,busy scenic,parking storage laundry,vibrant quiet rural,5,3
+962,Commercial,3746436.49,2022-10-25,quiet accessible,wifi,developing waterfront,5,5
+963,Land,4927914.31,2023-10-17,downtown,wifi fireplace pool,exclusive developing waterfront,4,3
+964,Residential,3905996.63,2021-10-03,suburb coastal exclusive,cable furnished gym,quiet,0,1
+965,Commercial,492549.54,2021-09-17,peaceful scenic,garden smart_home air_conditioning,waterfront,3,4
+966,Commercial,2062190.83,2021-04-14,urban,heating,historic,2,3
+967,Commercial,79911.98,2023-07-07,modern,parking balcony,commercial,1,2
+968,Residential,73093.23,2022-01-09,urban rural accessible,furnished pool,commercial historic waterfront,3,1
+969,Land,308191.55,2023-03-28,coastal historic mountain,furnished,vibrant commercial quiet,1,5
+970,Residential,3493252.48,2023-11-23,quiet busy developed,gym security,diverse,1,1
+971,Residential,114779.69,2023-05-07,luxury mountain coastal,smart_home storage,urban,4,1
+972,Commercial,4333436.66,2021-02-18,accessible vibrant,elevator,diverse quiet,4,1
+973,Residential,1103528.49,2023-03-24,coastal central exclusive,parking smart_home,gated midtown quiet,2,4
+974,Residential,52393.12,2021-12-09,mountain accessible,security parking balcony,vibrant,1,4
+975,Residential,3595748.05,2023-10-26,peaceful suburb,smart_home,diverse,1,2
+976,Commercial,3959793.07,2020-07-31,coastal emerging,fireplace smart_home air_conditioning,exclusive midtown,1,4
+977,Land,999594.92,2022-12-13,busy,parking fireplace elevator,artistic,4,2
+978,Commercial,1178042.43,2021-01-21,remote modern,elevator landscaping kitchen,developing,5,0
+979,Land,914844.33,2022-08-15,accessible,landscaping laundry,quiet commercial historic,3,1
+980,Commercial,1676979.73,2023-10-17,luxury downtown,patio gym,rural quiet,3,5
+981,Residential,1204637.66,2022-05-04,exclusive urban suburb,air_conditioning laundry storage,vibrant,1,4
+982,Land,2718670.29,2020-10-03,quiet,garden furnished playground,developing affluent uptown,4,1
+983,Commercial,3530084.37,2023-09-28,peaceful urban,pool,urban,4,3
+984,Commercial,1822688.41,2023-05-25,peaceful,elevator,trendy affluent,4,2
+985,Residential,1738223.78,2020-01-20,quiet suburb,storage,rural waterfront,2,1
+986,Commercial,50032.12,2022-11-08,developed,smart_home fireplace security,family_friendly,4,1
+987,Residential,927799.56,2023-04-04,quiet coastal,gym cable kitchen,trendy,2,5
+988,Residential,2177274.01,2021-09-19,mountain,fireplace parking storage,urban suburban vibrant,1,1
+989,Residential,3723775.52,2020-05-18,developed modern,smart_home landscaping heating,residential,2,2
+990,Residential,583875.56,2021-09-04,developed,storage garden,affluent uptown suburban,5,1
+991,Commercial,3146122.30,2023-03-08,rural,cable heating,industrial vibrant gated,4,5
+992,Residential,352487.15,2022-01-07,modern,balcony garden parking,developing uptown,5,2
+993,Residential,3374979.39,2023-07-14,vibrant exclusive central,playground wifi,historic,3,4
+994,Residential,1755536.96,2020-05-13,urban rural vibrant,garden,family_friendly vibrant,3,4
+995,Residential,3975070.41,2021-04-28,exclusive,pool cable,diverse,1,0
+996,Land,1717653.20,2021-02-22,developed,pool parking laundry,historic vibrant urban,4,2
+997,Residential,3747674.68,2022-03-19,remote quiet peaceful,storage garden wifi,vibrant,1,5
+998,Residential,4697367.24,2022-03-19,emerging developed,playground,quiet gated affluent,4,3
+999,Residential,1495000.54,2020-03-21,luxury,fireplace gym security,gated developing,2,4
+1000,Commercial,317306.42,2023-02-13,coastal scenic remote,security storage,historic,0,3

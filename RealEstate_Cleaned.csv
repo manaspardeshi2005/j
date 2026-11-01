@@ -1,0 +1,1001 @@
+id,sale_price,location,amenities,neighborhood,school_proximity,transit_proximity,property_type_commercial,property_type_land,property_type_residential
+1,177307.76,suburb exclusive scenic,elevator,quiet waterfront trendy,0,3,True,False,False
+2,1567715.03,coastal central historic,kitchen storage parking,trendy uptown downtown,2,1,False,False,True
+3,280683.0,emerging urban rural,cable elevator parking,affluent residential,1,5,False,True,False
+4,164798.38,exclusive developed,balcony cable gym,family_friendly,3,2,False,False,True
+5,95866.03,modern,heating playground storage,gated suburban,4,2,False,False,True
+6,244201.41,developed quiet,playground kitchen wifi,suburban industrial,3,1,False,False,True
+7,2289008.44,rural suburb,balcony,rural exclusive,4,4,False,False,True
+8,1578406.37,luxury mountain central,playground smart_home elevator,trendy,1,3,False,False,True
+9,4254935.65,affordable urban scenic,laundry playground air_conditioning,urban,4,4,False,False,True
+10,702729.32,busy exclusive vibrant,parking storage furnished,developing,0,4,False,False,True
+11,59132.04,mountain,air_conditioning kitchen,uptown diverse waterfront,2,3,False,False,True
+12,4049174.85,vibrant,garden,exclusive affluent suburban,1,4,True,False,False
+13,242647.51,emerging scenic,security elevator balcony,family_friendly downtown diverse,0,2,False,False,True
+14,116001.46,urban busy accessible,kitchen elevator patio,uptown,3,2,False,False,True
+15,1260899.14,busy,laundry cable air_conditioning,historic,2,2,False,False,True
+16,3022569.26,quiet affordable,wifi parking gym,suburban affluent vibrant,4,2,False,False,True
+17,308872.83,central remote coastal,playground parking furnished,developing,5,3,False,False,True
+18,573077.99,busy accessible,garden cable fireplace,uptown,3,1,True,False,False
+19,1029251.09,central mountain remote,fireplace pool landscaping,trendy artistic vibrant,3,2,False,False,True
+20,3491942.72,urban exclusive modern,security wifi,downtown,2,2,False,False,True
+21,50040.5,suburb mountain coastal,heating,trendy rural,3,3,True,False,False
+22,4126784.88,quiet exclusive,wifi air_conditioning,family_friendly,4,2,False,False,True
+23,4905008.87,remote exclusive accessible,pool storage furnished,industrial rural,4,4,False,False,True
+24,307264.4,downtown developed urban,kitchen wifi balcony,uptown suburban quiet,4,4,True,False,False
+25,4136986.09,central historic,elevator,uptown,3,0,False,False,True
+26,1106251.9,exclusive downtown,fireplace,historic residential quiet,1,1,False,False,True
+27,1890048.41,mountain,kitchen security,uptown waterfront,0,1,True,False,False
+28,903088.74,modern peaceful,smart_home,diverse waterfront,3,3,False,False,True
+29,4053776.64,vibrant urban,security balcony,urban artistic,0,0,False,False,True
+30,2963077.13,busy,gym wifi,exclusive suburban,3,2,False,False,True
+31,414092.77,vibrant exclusive,garden laundry,developing,2,2,False,False,True
+32,2312348.47,scenic emerging,heating,affluent,2,3,True,False,False
+33,111588.58,luxury,furnished,midtown,5,2,False,False,True
+34,1533668.0,urban,wifi heating,historic uptown,1,3,False,False,True
+35,2688172.58,scenic vibrant rural,smart_home,midtown trendy,4,1,False,False,True
+36,926182.62,accessible busy coastal,kitchen,family_friendly midtown,4,2,False,False,True
+37,1557449.0,remote affordable vibrant,fireplace laundry,exclusive gated affluent,0,4,False,True,False
+38,93675.99,accessible busy remote,furnished smart_home,family_friendly urban diverse,0,2,False,False,True
+39,3157522.51,peaceful central suburb,smart_home,artistic affluent,2,5,False,False,True
+40,1192762.97,affordable,pool garden cable,family_friendly urban downtown,4,2,False,False,True
+41,3368606.83,downtown emerging,storage,exclusive,1,2,False,False,True
+42,1544737.55,historic emerging,landscaping,industrial,0,0,False,False,True
+43,1387883.35,historic,kitchen elevator,midtown,4,2,True,False,False
+44,4940028.76,scenic historic,wifi,exclusive diverse urban,1,0,False,False,True
+45,145544.98,remote suburb,elevator,artistic,3,3,False,False,True
+46,1423355.76,urban developed luxury,landscaping,trendy waterfront,1,5,False,False,True
+47,4729241.07,suburb,patio,urban uptown gated,0,4,False,False,True
+48,328764.28,busy mountain,heating fireplace elevator,rural vibrant,3,0,False,False,True
+49,440073.34,scenic,garden furnished playground,commercial downtown,3,4,False,False,True
+50,1450579.36,central,patio,gated historic commercial,1,3,False,False,True
+51,276937.19,coastal,garden pool landscaping,uptown waterfront,5,2,False,False,True
+52,4071931.01,busy urban,furnished kitchen,developing historic,0,2,True,False,False
+53,4667335.71,downtown,balcony cable,quiet artistic,1,3,False,True,False
+54,2273784.25,developed affordable,smart_home gym,industrial,3,0,False,False,True
+55,2060498.68,emerging busy luxury,security,diverse industrial,5,4,False,False,True
+56,2416131.7,busy coastal remote,cable,vibrant trendy suburban,1,2,False,False,True
+57,819923.9,exclusive mountain luxury,balcony,suburban exclusive gated,2,3,False,False,True
+58,592115.87,affordable,gym pool fireplace,affluent developing,3,2,False,False,True
+59,424769.95,modern developed busy,security pool storage,industrial,1,4,False,False,True
+60,1218159.97,urban,cable storage,vibrant,1,2,False,False,True
+61,109995.04,historic luxury busy,furnished,urban,4,4,False,False,True
+62,4263232.52,mountain luxury vibrant,kitchen security playground,uptown,5,2,False,False,True
+63,4141943.94,accessible,patio,industrial vibrant,0,3,False,False,True
+64,519862.26,historic suburb,kitchen furnished,artistic gated,2,2,False,False,True
+65,276897.25,quiet,air_conditioning balcony pool,suburban family_friendly,2,2,False,True,False
+66,4385100.98,remote developed modern,balcony security wifi,waterfront,0,4,True,False,False
+67,279048.14,downtown rural central,balcony wifi playground,artistic urban waterfront,2,0,False,False,True
+68,353957.37,developed urban,smart_home,diverse industrial family_friendly,5,1,False,False,True
+69,2934731.15,modern remote scenic,storage security patio,gated,3,0,True,False,False
+70,1313775.15,modern peaceful,balcony wifi gym,diverse historic affluent,5,2,False,False,True
+71,748462.57,mountain remote exclusive,landscaping,exclusive affluent,3,1,False,False,True
+72,84145.46,modern central remote,wifi smart_home,commercial waterfront,1,0,False,False,True
+73,1859845.82,mountain luxury peaceful,heating furnished laundry,downtown gated,0,3,True,False,False
+74,4029707.49,remote,laundry fireplace pool,urban artistic trendy,3,0,False,False,True
+75,313384.44,affordable,pool furnished smart_home,vibrant,4,5,False,False,True
+76,107184.88,busy,furnished parking,waterfront diverse,4,1,False,False,True
+77,1495995.18,central accessible vibrant,heating air_conditioning,quiet,0,4,True,False,False
+78,76520.6,central historic,playground kitchen,vibrant artistic,2,2,False,True,False
+79,3983149.09,remote central vibrant,laundry playground heating,commercial diverse,2,4,False,True,False
+80,995912.75,exclusive peaceful modern,gym,vibrant trendy,3,3,False,False,True
+81,3539350.18,suburb rural,pool,residential suburban downtown,2,3,True,False,False
+82,2518558.07,central scenic downtown,garden laundry,quiet,0,4,False,False,True
+83,3135698.88,coastal developed,garden patio cable,trendy uptown,0,1,False,False,True
+84,1350154.23,luxury downtown accessible,furnished,developing urban,2,2,False,True,False
+85,2490394.16,affordable urban historic,smart_home playground storage,residential downtown,4,3,False,False,True
+86,58381.84,suburb affordable,garden landscaping,uptown exclusive residential,1,1,False,False,True
+87,351706.85,downtown rural,heating,suburban residential rural,4,2,False,True,False
+88,2904243.99,quiet modern accessible,air_conditioning,downtown,2,3,False,False,True
+89,3676433.96,remote exclusive,furnished smart_home kitchen,rural suburban artistic,2,5,False,True,False
+90,136466.59,modern central vibrant,garden air_conditioning landscaping,trendy,1,2,False,False,True
+91,296079.73,remote vibrant,patio garden,exclusive vibrant,4,3,True,False,False
+92,295880.26,busy urban emerging,landscaping,industrial historic exclusive,4,4,False,False,True
+93,2954319.66,remote,patio parking,gated diverse uptown,0,2,True,False,False
+94,50000.31,remote affordable,laundry gym,developing,2,0,False,True,False
+95,2973178.77,peaceful downtown,wifi elevator air_conditioning,uptown developing artistic,0,1,False,False,True
+96,234538.87,mountain,laundry furnished,suburban downtown quiet,5,5,False,False,True
+97,4192860.9,developed,heating,industrial gated commercial,3,5,False,False,True
+98,1858353.31,vibrant,kitchen furnished,uptown,2,3,True,False,False
+99,1329690.59,emerging accessible,balcony,exclusive suburban diverse,3,4,True,False,False
+100,1905035.34,central historic,playground heating pool,urban family_friendly artistic,3,3,False,False,True
+101,1497442.13,luxury,heating air_conditioning,developing,4,2,False,False,True
+102,55710.21,affordable,gym wifi storage,urban,5,2,False,False,True
+103,889483.06,mountain downtown suburb,garden landscaping balcony,artistic gated historic,4,3,False,False,True
+104,4584623.38,modern remote vibrant,kitchen playground fireplace,quiet,1,1,False,False,True
+105,4608267.62,affordable,furnished storage,exclusive family_friendly,4,4,False,True,False
+106,3266211.32,exclusive emerging quiet,fireplace parking landscaping,developing industrial historic,3,4,False,True,False
+107,1184870.13,downtown,kitchen balcony,vibrant exclusive residential,4,5,False,False,True
+108,4156441.0,quiet urban,patio,family_friendly gated waterfront,3,1,False,False,True
+109,798399.36,busy peaceful coastal,elevator landscaping,affluent family_friendly,3,3,False,False,True
+110,4675112.9,scenic downtown modern,gym,downtown historic,2,1,False,False,True
+111,1396279.83,vibrant,heating balcony,residential diverse,4,2,False,False,True
+112,165787.23,downtown,heating playground balcony,waterfront,2,3,False,False,True
+113,2417940.08,accessible historic,laundry furnished,artistic,3,4,False,False,True
+114,1445217.86,peaceful urban,storage,affluent family_friendly,1,4,False,False,True
+115,1895631.74,accessible,elevator garden laundry,industrial waterfront family_friendly,3,2,True,False,False
+116,3479764.06,urban remote quiet,smart_home,gated quiet,1,1,False,False,True
+117,1659799.28,coastal,security pool cable,family_friendly,2,4,False,False,True
+118,3666395.63,affordable,elevator pool gym,residential downtown artistic,4,2,False,False,True
+119,1974469.81,downtown vibrant,landscaping garden,waterfront urban uptown,1,3,False,False,True
+120,425765.21,accessible emerging,fireplace air_conditioning,vibrant gated,2,5,True,False,False
+121,92014.78,modern developed,gym fireplace,quiet family_friendly urban,4,2,False,False,True
+122,1331272.27,suburb busy quiet,pool playground patio,diverse industrial,1,4,False,True,False
+123,1832862.3,mountain affordable quiet,elevator playground,uptown residential urban,1,4,False,False,True
+124,691920.31,affordable vibrant quiet,patio security cable,suburban diverse family_friendly,3,1,False,False,True
+125,1193477.36,suburb developed urban,gym playground laundry,rural vibrant,2,2,False,False,True
+126,1053305.29,peaceful,heating,family_friendly diverse artistic,4,1,False,False,True
+127,227362.98,developed historic scenic,air_conditioning furnished,commercial affluent downtown,4,4,False,True,False
+128,2477618.54,urban suburb coastal,smart_home,industrial quiet,2,1,True,False,False
+129,661036.71,modern developed busy,garden,vibrant,1,5,False,True,False
+130,167377.56,busy scenic emerging,smart_home parking storage,gated historic,3,3,False,False,True
+131,1190476.48,remote mountain,security wifi,waterfront trendy midtown,2,4,False,False,True
+132,969742.84,rural,garden furnished laundry,trendy historic,3,4,False,False,True
+133,4101874.2,historic rural,storage patio,rural quiet,1,4,True,False,False
+134,1506925.55,affordable mountain,pool smart_home,diverse midtown,4,3,False,False,True
+135,84241.16,quiet,landscaping cable parking,family_friendly midtown exclusive,0,2,False,False,True
+136,229417.31,vibrant remote,smart_home pool,artistic diverse,1,5,False,False,True
+137,2668732.32,luxury quiet affordable,wifi laundry heating,family_friendly,3,1,True,False,False
+138,2651306.96,affordable vibrant suburb,parking gym,rural historic,4,2,True,False,False
+139,2956972.7,remote,fireplace landscaping,urban,4,5,True,False,False
+140,332262.9,busy peaceful,patio parking,trendy artistic,5,3,False,False,True
+141,4538095.49,rural downtown,air_conditioning landscaping,affluent vibrant,5,2,False,False,True
+142,186830.1,rural affordable urban,elevator,family_friendly,0,2,False,False,True
+143,3438145.57,historic accessible scenic,air_conditioning elevator,trendy,1,5,False,False,True
+144,1823560.6,developed busy exclusive,kitchen laundry,exclusive uptown affluent,3,2,False,False,True
+145,365388.95,affordable,cable,developing,5,1,False,False,True
+146,65667.9,urban emerging,smart_home,quiet industrial diverse,4,1,False,False,True
+147,1962368.6,scenic,parking,exclusive affluent trendy,5,1,False,False,True
+148,3998878.99,quiet central,heating,developing uptown,3,1,False,False,True
+149,1005256.69,urban,gym wifi patio,vibrant,4,4,True,False,False
+150,149435.76,accessible historic,gym,quiet,3,3,False,False,True
+151,3297240.29,suburb busy,garden fireplace playground,gated,2,4,False,False,True
+152,2516421.91,rural,furnished cable,waterfront affluent,3,1,False,False,True
+153,3654171.43,historic busy,fireplace security,developing industrial urban,3,2,False,False,True
+154,2009779.0,scenic,garden gym furnished,gated,1,4,True,False,False
+155,1211850.24,developed,gym,uptown exclusive,3,0,True,False,False
+156,1866368.25,accessible peaceful,wifi,midtown diverse,3,1,False,True,False
+157,2426025.77,rural historic,parking landscaping pool,residential commercial,3,3,True,False,False
+158,438504.58,downtown,smart_home gym laundry,midtown suburban,4,2,False,False,True
+159,73170.52,peaceful accessible busy,gym cable,gated artistic,1,4,False,False,True
+160,355995.78,luxury affordable,fireplace wifi,quiet,2,4,False,False,True
+161,193727.11,remote,elevator landscaping garden,diverse gated,0,4,False,False,True
+162,1678047.22,quiet emerging,fireplace cable garden,developing quiet historic,2,1,False,False,True
+163,3905127.96,accessible quiet downtown,fireplace landscaping,vibrant artistic,4,0,False,False,True
+164,418757.27,emerging,parking garden,exclusive,2,2,False,False,True
+165,3902021.87,central downtown exclusive,laundry kitchen,commercial family_friendly trendy,3,4,False,False,True
+166,166109.98,exclusive mountain,storage cable,diverse,4,3,False,False,True
+167,2193757.87,central affordable downtown,laundry kitchen,quiet gated family_friendly,3,3,True,False,False
+168,153816.21,suburb developed,cable wifi,suburban developing artistic,2,2,False,False,True
+169,3968677.84,modern developed,patio garden,exclusive developing uptown,3,2,False,False,True
+170,1121493.88,quiet modern remote,laundry security,rural,2,4,True,False,False
+171,595982.72,central scenic,laundry patio,gated affluent,4,1,False,False,True
+172,1099805.08,central downtown suburb,balcony,residential vibrant quiet,3,4,True,False,False
+173,494576.45,affordable vibrant exclusive,wifi smart_home pool,family_friendly,3,2,False,False,True
+174,733651.76,downtown suburb scenic,elevator security,downtown affluent artistic,0,3,True,False,False
+175,2783536.24,modern,parking fireplace,gated,3,3,False,False,True
+176,1507741.73,urban scenic developed,patio,uptown,1,2,True,False,False
+177,53581.73,busy,balcony,commercial waterfront industrial,4,2,False,False,True
+178,3403497.98,busy vibrant accessible,wifi kitchen,rural commercial artistic,3,4,False,False,True
+179,980010.31,affordable,laundry,developing industrial diverse,1,0,False,False,True
+180,1285771.23,rural central mountain,heating,downtown uptown,5,4,False,False,True
+181,650424.36,luxury historic,cable,residential affluent,3,3,False,False,True
+182,3082917.12,suburb scenic vibrant,pool wifi elevator,gated industrial suburban,3,3,True,False,False
+183,2131991.78,affordable exclusive central,pool,urban,5,3,False,False,True
+184,3879489.14,modern,furnished security,downtown,1,3,False,False,True
+185,1699687.73,scenic historic,landscaping wifi,gated exclusive urban,4,3,True,False,False
+186,4724849.29,vibrant modern,gym landscaping,uptown downtown,1,1,True,False,False
+187,313963.01,central,security,gated,3,3,True,False,False
+188,2014741.83,downtown quiet historic,cable playground smart_home,rural suburban,3,3,False,False,True
+189,1319900.29,central vibrant,pool parking fireplace,exclusive rural,4,2,False,False,True
+190,1068264.4,exclusive coastal,parking furnished,diverse,2,2,True,False,False
+191,3943905.85,coastal,balcony landscaping,historic vibrant urban,3,5,False,False,True
+192,2818797.33,mountain,gym security,residential affluent,4,0,False,False,True
+193,1375655.44,historic,gym,developing,3,2,False,False,True
+194,2534849.63,busy,garden patio,vibrant midtown family_friendly,1,1,False,False,True
+195,3105606.29,suburb remote downtown,playground,urban,5,1,True,False,False
+196,2119386.97,affordable scenic mountain,pool,family_friendly developing downtown,2,1,False,False,True
+197,233986.1,luxury,laundry landscaping,quiet urban,5,2,True,False,False
+198,4750713.03,busy developed,security storage,waterfront artistic,1,1,False,False,True
+199,999363.69,central historic,storage landscaping,exclusive,2,2,False,False,True
+200,986197.26,quiet affordable vibrant,furnished patio laundry,waterfront trendy,5,3,False,False,True
+201,1785092.97,developed modern exclusive,pool garden,uptown commercial diverse,2,4,False,False,True
+202,1096790.05,scenic vibrant,balcony,rural developing artistic,4,4,False,False,True
+203,622453.49,remote scenic,security cable,midtown,0,4,False,False,True
+204,4134484.35,remote,pool security,gated,2,5,False,False,True
+205,3664612.25,downtown luxury suburb,landscaping balcony,midtown,3,4,False,False,True
+206,70293.46,central mountain vibrant,wifi gym,urban commercial trendy,0,4,False,False,True
+207,1034702.8,emerging,gym heating fireplace,waterfront suburban,2,4,True,False,False
+208,97470.01,scenic remote,parking,downtown gated affluent,1,2,False,False,True
+209,3550397.4,emerging,furnished,commercial,2,4,False,False,True
+210,2304311.66,coastal,patio air_conditioning landscaping,downtown midtown,4,4,False,False,True
+211,947282.23,luxury rural peaceful,landscaping cable wifi,commercial exclusive artistic,4,3,True,False,False
+212,4906771.48,quiet suburb remote,wifi storage,midtown commercial affluent,2,3,False,False,True
+213,3656465.95,scenic,garden furnished,developing,4,5,True,False,False
+214,2410533.66,coastal,parking wifi,waterfront residential artistic,4,2,False,False,True
+215,798695.81,mountain vibrant suburb,smart_home cable air_conditioning,commercial,3,5,True,False,False
+216,1694543.12,coastal remote developed,patio balcony,rural commercial,4,5,False,False,True
+217,1218764.46,coastal remote vibrant,balcony,suburban industrial artistic,5,1,False,True,False
+218,2683554.28,exclusive accessible,parking fireplace kitchen,commercial industrial,4,4,True,False,False
+219,62328.56,vibrant luxury,patio laundry smart_home,trendy rural,5,2,False,False,True
+220,2601146.72,mountain,storage,residential,4,3,False,False,True
+221,113205.79,suburb,balcony pool cable,rural suburban developing,1,1,False,False,True
+222,3710097.8,accessible central modern,parking patio,industrial developing uptown,5,4,False,False,True
+223,802629.51,emerging,playground,midtown gated,2,0,False,False,True
+224,68896.61,luxury emerging,parking,exclusive,0,1,False,False,True
+225,4148096.96,quiet busy,elevator patio,suburban,4,4,True,False,False
+226,1934788.01,rural,air_conditioning,uptown midtown family_friendly,2,4,False,False,True
+227,3763284.94,quiet,furnished,family_friendly exclusive downtown,2,5,False,False,True
+228,701972.31,affordable suburb quiet,landscaping furnished,midtown,1,5,False,False,True
+229,186324.02,downtown,furnished,uptown rural affluent,5,1,False,True,False
+230,1880679.6,vibrant peaceful,laundry storage,trendy artistic diverse,3,3,False,False,True
+231,1795692.41,luxury rural,smart_home security,affluent gated industrial,2,5,False,False,True
+232,1023500.36,coastal rural urban,heating,family_friendly midtown vibrant,3,1,False,True,False
+233,124798.21,downtown,fireplace,midtown uptown urban,3,3,False,False,True
+234,425737.06,central coastal remote,storage,historic,0,4,True,False,False
+235,1492944.59,exclusive remote,balcony,downtown urban vibrant,1,3,False,True,False
+236,695665.39,exclusive remote,kitchen smart_home furnished,developing vibrant uptown,4,1,False,False,True
+237,2044337.91,emerging central,storage,residential,2,3,False,False,True
+238,386647.99,historic rural,garden,diverse,5,5,False,True,False
+239,1436212.91,luxury exclusive,parking,developing rural urban,2,4,False,False,True
+240,411930.32,emerging developed peaceful,landscaping air_conditioning elevator,affluent,3,2,False,False,True
+241,558661.35,mountain quiet,elevator,exclusive,5,2,False,False,True
+242,495901.67,peaceful,smart_home kitchen furnished,commercial gated historic,2,1,True,False,False
+243,4750811.88,central rural historic,kitchen,artistic trendy downtown,4,3,False,False,True
+244,387021.76,mountain affordable,garden cable,residential commercial quiet,3,5,False,False,True
+245,4361430.84,exclusive downtown,heating balcony landscaping,suburban downtown urban,4,3,False,False,True
+246,719537.28,mountain developed,laundry kitchen smart_home,rural waterfront,4,3,True,False,False
+247,1804019.47,luxury affordable,kitchen heating patio,rural diverse midtown,2,3,False,False,True
+248,971922.08,emerging quiet,kitchen air_conditioning parking,affluent rural,5,2,False,False,True
+249,3802143.09,peaceful luxury suburb,kitchen parking,historic quiet,2,1,True,False,False
+250,1429454.7,rural historic,playground smart_home air_conditioning,vibrant,3,4,False,False,True
+251,511071.76,peaceful modern,parking cable landscaping,affluent,0,0,False,False,True
+252,60814.1,accessible,kitchen,gated waterfront,3,3,False,False,True
+253,1500443.13,affordable rural,security furnished,exclusive historic,1,1,True,False,False
+254,2771775.08,suburb,patio smart_home heating,downtown,4,4,False,False,True
+255,2043653.08,busy,storage cable,industrial,3,3,False,False,True
+256,225540.51,vibrant emerging,laundry playground parking,exclusive,1,0,False,False,True
+257,1899741.0,busy downtown suburb,parking garden,diverse,1,2,False,False,True
+258,131080.76,quiet,balcony gym kitchen,gated family_friendly artistic,1,1,False,True,False
+259,2961141.99,urban accessible mountain,parking garden elevator,vibrant,1,3,False,False,True
+260,3374450.36,peaceful luxury coastal,cable,industrial midtown uptown,1,3,False,False,True
+261,2402562.8,vibrant,air_conditioning pool,historic midtown,0,1,False,False,True
+262,782984.27,urban suburb exclusive,balcony laundry,quiet,3,2,False,False,True
+263,529003.3,emerging developed busy,elevator,family_friendly,0,2,False,False,True
+264,633726.63,remote,laundry garden furnished,waterfront exclusive,3,0,False,False,True
+265,58599.7,peaceful,wifi,trendy suburban,3,4,False,False,True
+266,203643.95,rural vibrant exclusive,storage,affluent,2,4,False,False,True
+267,4964972.27,central accessible emerging,patio landscaping air_conditioning,midtown industrial,4,2,True,False,False
+268,326325.53,suburb urban,garden pool,historic,1,2,False,False,True
+269,3228052.48,coastal rural peaceful,pool parking,downtown urban,3,2,True,False,False
+270,97540.33,exclusive rural modern,cable,trendy residential,3,0,False,False,True
+271,2524611.97,urban,security,diverse suburban historic,4,4,False,True,False
+272,2906815.33,quiet urban coastal,security smart_home storage,gated artistic,4,3,True,False,False
+273,364896.21,busy scenic suburb,elevator cable parking,affluent,4,4,True,False,False
+274,309805.81,downtown suburb exclusive,wifi heating kitchen,rural,0,2,False,False,True
+275,111271.41,accessible luxury,elevator pool fireplace,rural uptown diverse,3,2,False,False,True
+276,3865563.68,luxury busy,pool,vibrant diverse,0,3,False,False,True
+277,2709494.99,rural vibrant,heating landscaping garden,gated artistic,3,0,True,False,False
+278,462973.74,scenic,pool parking smart_home,family_friendly vibrant artistic,3,0,False,False,True
+279,462913.18,coastal affordable suburb,security,residential uptown commercial,0,4,False,False,True
+280,78106.75,vibrant modern,patio parking pool,trendy gated quiet,2,0,True,False,False
+281,4989487.71,vibrant emerging,furnished pool,artistic commercial diverse,3,5,False,False,True
+282,309040.12,vibrant peaceful urban,laundry parking cable,downtown affluent waterfront,4,0,False,False,True
+283,131620.15,peaceful rural,playground pool,commercial,0,4,False,True,False
+284,205675.14,scenic remote mountain,balcony,family_friendly trendy exclusive,4,3,False,False,True
+285,3005789.43,affordable rural emerging,gym balcony,trendy rural historic,2,3,False,False,True
+286,910036.1,developed,kitchen landscaping laundry,commercial exclusive gated,1,1,False,False,True
+287,2822882.69,coastal,storage,affluent diverse,2,2,False,False,True
+288,1096859.68,emerging,heating,gated,1,2,False,True,False
+289,1907581.2,mountain,garden security air_conditioning,historic family_friendly,2,1,False,False,True
+290,3422664.32,vibrant modern busy,security garden landscaping,vibrant,0,3,False,False,True
+291,50288.54,remote coastal,garden playground fireplace,affluent artistic,2,3,False,False,True
+292,108067.07,remote peaceful,smart_home,vibrant rural,2,4,True,False,False
+293,4147036.81,emerging urban,gym,vibrant uptown,3,1,True,False,False
+294,4588782.69,central,cable furnished smart_home,rural exclusive,1,4,False,False,True
+295,229701.73,coastal developed vibrant,storage air_conditioning,waterfront vibrant,3,3,True,False,False
+296,529340.24,emerging historic,playground air_conditioning cable,diverse,0,4,True,False,False
+297,2852981.07,mountain developed,landscaping fireplace cable,exclusive quiet,0,1,False,False,True
+298,124763.87,vibrant,furnished,downtown,4,1,False,False,True
+299,62962.56,scenic,pool,diverse,4,1,True,False,False
+300,420853.21,mountain,garden playground security,residential diverse,1,3,False,False,True
+301,520987.35,luxury peaceful,patio furnished cable,midtown,2,3,True,False,False
+302,4630719.84,mountain downtown peaceful,elevator air_conditioning pool,industrial affluent downtown,2,2,True,False,False
+303,98110.84,vibrant coastal,cable,suburban gated,4,3,True,False,False
+304,957961.89,central coastal,kitchen garden,downtown waterfront commercial,5,3,False,False,True
+305,58410.2,urban suburb affordable,kitchen,developing,4,1,False,False,True
+306,4132290.77,peaceful modern accessible,cable laundry wifi,waterfront uptown,5,3,False,True,False
+307,3589986.15,coastal affordable developed,pool,midtown commercial waterfront,1,4,False,False,True
+308,91923.32,remote emerging,pool garden,trendy,2,1,False,False,True
+309,61172.53,exclusive,wifi,suburban trendy exclusive,3,2,False,False,True
+310,4521294.35,affordable exclusive coastal,kitchen furnished,historic artistic vibrant,0,0,False,False,True
+311,2624650.99,emerging,landscaping patio,vibrant downtown commercial,4,2,False,False,True
+312,601841.44,vibrant,pool garden storage,midtown developing,3,1,False,True,False
+313,4121401.57,modern vibrant,furnished playground garden,suburban,0,4,True,False,False
+314,1964696.08,vibrant quiet remote,smart_home heating playground,industrial vibrant quiet,5,1,False,False,True
+315,237290.14,modern,cable landscaping laundry,gated,3,3,False,False,True
+316,4588060.9,accessible,gym,industrial artistic gated,1,2,False,False,True
+317,297106.69,scenic rural,garden,quiet,2,3,False,False,True
+318,4203211.91,exclusive coastal busy,kitchen playground air_conditioning,urban,2,3,False,False,True
+319,1257591.3,emerging peaceful,landscaping smart_home storage,exclusive,0,4,True,False,False
+320,397776.17,central urban vibrant,landscaping,industrial diverse artistic,3,2,False,False,True
+321,382353.23,urban scenic emerging,kitchen,industrial commercial waterfront,4,4,False,False,True
+322,4522608.85,modern,security elevator heating,suburban,2,1,True,False,False
+323,56362.27,urban accessible scenic,garden balcony furnished,trendy,0,4,False,False,True
+324,422863.34,mountain,wifi patio pool,industrial developing family_friendly,1,3,False,True,False
+325,1044773.45,urban modern,elevator patio,downtown suburban,2,3,False,False,True
+326,261769.93,vibrant luxury remote,garden parking,family_friendly,3,3,False,False,True
+327,472294.09,scenic rural central,furnished patio,exclusive uptown,4,2,True,False,False
+328,324095.63,scenic affordable exclusive,cable elevator kitchen,developing industrial artistic,3,3,False,True,False
+329,1599006.98,downtown,balcony,vibrant,4,5,False,False,True
+330,3396486.68,rural emerging mountain,air_conditioning wifi,suburban family_friendly,4,1,False,False,True
+331,546978.63,emerging rural suburb,air_conditioning patio playground,developing suburban industrial,3,2,True,False,False
+332,4517001.59,luxury urban,wifi,artistic diverse trendy,2,0,False,False,True
+333,299091.6,vibrant,landscaping playground,developing,1,4,False,False,True
+334,4026361.38,vibrant scenic,elevator,vibrant quiet diverse,1,4,False,False,True
+335,203931.49,developed historic,gym cable,midtown,1,4,False,False,True
+336,50830.86,suburb urban quiet,garden furnished balcony,rural,5,1,False,True,False
+337,165408.23,remote affordable,pool security,commercial urban downtown,2,3,False,False,True
+338,95000.75,urban luxury emerging,air_conditioning garden security,rural,3,2,False,False,True
+339,2804679.17,remote quiet peaceful,kitchen security balcony,rural family_friendly affluent,0,4,True,False,False
+340,132763.6,remote modern peaceful,pool,vibrant,0,3,False,True,False
+341,2537880.39,emerging urban mountain,fireplace balcony,downtown waterfront suburban,3,4,False,False,True
+342,2384795.8,developed coastal accessible,furnished heating,developing suburban gated,1,4,False,False,True
+343,325911.25,affordable exclusive,elevator,quiet gated,2,4,False,False,True
+344,3555170.86,historic,balcony,midtown,2,4,False,False,True
+345,196142.57,modern accessible vibrant,patio,diverse,4,3,False,False,True
+346,1586556.64,coastal mountain,storage,artistic family_friendly suburban,3,4,False,True,False
+347,88683.67,emerging,heating playground,affluent exclusive,2,4,False,False,True
+348,4018506.42,developed exclusive,gym wifi kitchen,commercial family_friendly,3,4,False,False,True
+349,111848.38,affordable,balcony furnished,family_friendly,3,5,False,False,True
+350,3748624.8,vibrant historic coastal,landscaping,artistic rural,0,5,False,False,True
+351,2746507.94,busy emerging,garden,uptown artistic gated,5,3,False,False,True
+352,3781833.94,urban busy,landscaping parking,commercial artistic historic,2,4,False,True,False
+353,4519979.76,suburb,security cable,historic diverse industrial,3,3,False,True,False
+354,1576985.71,scenic quiet,balcony smart_home furnished,gated,2,4,False,False,True
+355,51349.53,peaceful central,pool cable playground,exclusive,2,5,False,False,True
+356,2310677.2,peaceful,fireplace,urban,1,3,False,False,True
+357,442752.09,peaceful accessible,laundry heating smart_home,uptown midtown urban,1,4,False,True,False
+358,1444101.69,coastal remote,pool patio,midtown,1,3,False,False,True
+359,4006178.54,quiet developed urban,cable elevator,quiet suburban,4,3,False,False,True
+360,1685622.29,emerging,security,artistic trendy uptown,1,5,False,False,True
+361,342446.68,downtown accessible,security garden,urban exclusive historic,5,2,False,False,True
+362,3856418.16,modern busy historic,laundry elevator,industrial,0,2,True,False,False
+363,1326396.21,scenic,heating balcony wifi,suburban,1,3,False,False,True
+364,460568.82,mountain,patio,downtown rural,3,1,False,False,True
+365,891096.44,coastal modern affordable,heating fireplace,uptown suburban downtown,4,3,False,False,True
+366,1144012.14,downtown,kitchen security patio,family_friendly historic,2,0,False,False,True
+367,111030.2,coastal scenic central,balcony fireplace,gated,1,2,False,False,True
+368,201497.26,historic busy luxury,storage kitchen,vibrant residential,4,3,False,False,True
+369,384915.28,busy,heating elevator,residential,5,1,False,False,True
+370,225612.2,modern,balcony playground furnished,developing waterfront,4,2,True,False,False
+371,2624907.82,vibrant,landscaping patio smart_home,exclusive developing,4,3,False,False,True
+372,700189.16,luxury quiet,wifi kitchen security,midtown,2,2,True,False,False
+373,728097.09,downtown mountain,cable garden playground,affluent,5,4,False,False,True
+374,71505.72,accessible,air_conditioning,family_friendly,4,2,False,False,True
+375,2902808.07,vibrant urban,balcony parking air_conditioning,rural family_friendly suburban,5,3,False,False,True
+376,1227056.95,central rural,pool heating parking,downtown,3,5,True,False,False
+377,1377747.78,urban central,pool,downtown,1,1,False,False,True
+378,658765.52,vibrant,gym,developing industrial vibrant,4,3,False,False,True
+379,214289.6,peaceful scenic emerging,fireplace playground,suburban residential developing,5,4,False,False,True
+380,4293493.23,scenic rural coastal,wifi patio landscaping,historic,2,1,False,False,True
+381,841830.64,downtown,elevator garden,uptown historic,2,5,True,False,False
+382,1036635.79,remote,cable gym kitchen,waterfront,5,3,False,False,True
+383,3391368.56,rural developed,playground heating security,downtown,3,3,False,False,True
+384,421169.83,developed downtown coastal,security playground,gated rural vibrant,4,3,False,False,True
+385,190454.93,mountain,storage cable,waterfront suburban,3,1,False,False,True
+386,3215264.53,peaceful downtown,garden elevator,trendy vibrant gated,2,1,False,False,True
+387,3171943.54,accessible scenic emerging,laundry security,trendy,5,0,False,False,True
+388,50159.14,urban emerging,furnished,family_friendly developing quiet,2,1,True,False,False
+389,541692.36,exclusive,furnished fireplace garden,suburban trendy,0,2,True,False,False
+390,2560664.23,peaceful,landscaping,vibrant artistic historic,5,3,False,True,False
+391,386316.54,modern,garden smart_home cable,vibrant,4,2,False,False,True
+392,4264502.79,developed,pool,midtown,4,1,True,False,False
+393,77446.62,rural peaceful historic,kitchen furnished,midtown diverse family_friendly,4,1,False,False,True
+394,50470.48,exclusive vibrant,laundry fireplace parking,downtown historic uptown,1,5,False,False,True
+395,1842210.82,emerging accessible,balcony furnished wifi,downtown affluent,1,2,False,False,True
+396,1337499.98,rural,smart_home security,diverse artistic,4,4,False,False,True
+397,386916.35,vibrant peaceful affordable,furnished wifi,exclusive downtown,4,3,False,False,True
+398,1067907.91,suburb emerging mountain,fireplace gym,industrial,0,3,False,False,True
+399,4277428.07,modern,balcony,commercial family_friendly,4,2,False,False,True
+400,2843145.4,coastal remote,landscaping playground elevator,downtown residential family_friendly,1,2,False,False,True
+401,1923119.86,mountain luxury,air_conditioning,historic,0,1,False,False,True
+402,408103.4,affordable luxury,balcony air_conditioning heating,gated,1,2,False,True,False
+403,2228083.24,downtown peaceful,elevator,artistic,1,4,False,False,True
+404,3011300.89,vibrant rural affordable,kitchen furnished,commercial,1,4,False,False,True
+405,216996.54,historic affordable mountain,landscaping cable,midtown,5,5,False,False,True
+406,2591613.58,accessible,security smart_home furnished,waterfront,2,3,False,True,False
+407,443546.18,scenic,wifi,suburban historic diverse,4,4,False,False,True
+408,357621.05,suburb affordable mountain,parking,midtown commercial,2,5,False,False,True
+409,3938277.11,affordable,gym fireplace pool,midtown vibrant rural,1,3,False,False,True
+410,3418222.34,urban affordable,security landscaping,historic family_friendly,2,1,True,False,False
+411,1489526.87,remote exclusive,smart_home pool wifi,vibrant exclusive,4,1,False,False,True
+412,2853543.64,central busy,landscaping smart_home,quiet residential affluent,2,4,False,False,True
+413,2130849.97,exclusive accessible central,balcony security parking,gated,3,3,False,False,True
+414,593125.78,emerging,wifi,vibrant,1,1,False,False,True
+415,469748.42,scenic rural luxury,landscaping garden,suburban midtown,2,1,True,False,False
+416,342117.2,coastal,playground elevator fireplace,exclusive historic commercial,2,3,False,False,True
+417,4976580.05,busy affordable,fireplace gym garden,vibrant developing,1,1,False,False,True
+418,471730.62,emerging accessible exclusive,cable,historic artistic,2,5,True,False,False
+419,3972606.14,emerging quiet central,air_conditioning parking kitchen,residential commercial,2,3,False,False,True
+420,4507089.58,suburb central quiet,cable kitchen,waterfront,5,1,False,False,True
+421,422202.82,peaceful,gym,waterfront,3,1,False,False,True
+422,217423.51,urban,furnished,affluent trendy,3,1,True,False,False
+423,1907516.24,remote vibrant,patio,urban diverse,4,3,False,False,True
+424,4059461.09,accessible affordable central,balcony,residential industrial,2,4,True,False,False
+425,1288004.68,affordable busy mountain,heating patio,residential midtown rural,0,2,False,False,True
+426,3623363.01,scenic coastal historic,smart_home,affluent,3,1,False,False,True
+427,1741450.1,emerging,air_conditioning,vibrant,4,5,False,False,True
+428,4663821.37,urban,security patio kitchen,diverse historic,0,2,False,False,True
+429,203010.66,coastal vibrant,gym,diverse,1,3,False,False,True
+430,53852.01,suburb exclusive busy,cable garden parking,suburban rural,4,1,False,False,True
+431,727762.62,affordable rural,wifi playground,rural developing industrial,4,3,False,False,True
+432,70981.79,scenic modern,furnished balcony heating,developing,2,4,True,False,False
+433,3796991.88,busy,patio storage cable,suburban,2,4,False,False,True
+434,60479.26,busy,patio cable,developing,5,4,False,False,True
+435,469592.12,busy vibrant developed,balcony,artistic urban,2,4,True,False,False
+436,2356659.12,luxury busy scenic,smart_home gym,waterfront,3,1,True,False,False
+437,76397.6,central,elevator fireplace gym,gated trendy,1,5,False,True,False
+438,3742314.78,remote emerging,heating air_conditioning,developing midtown waterfront,1,0,False,False,True
+439,412917.79,developed,garden playground laundry,uptown industrial vibrant,0,0,False,True,False
+440,3930799.6,remote peaceful accessible,patio pool,midtown industrial,0,4,False,False,True
+441,1232314.99,rural scenic,laundry,industrial exclusive,4,2,True,False,False
+442,76790.63,luxury,kitchen security,residential commercial,2,3,False,False,True
+443,364986.37,scenic exclusive,furnished playground,midtown exclusive industrial,5,4,False,False,True
+444,3620102.03,busy central,garden fireplace gym,rural industrial,2,1,False,False,True
+445,110191.59,central quiet,security cable,vibrant,2,1,False,True,False
+446,1112666.06,quiet accessible,fireplace patio laundry,exclusive,2,3,False,False,True
+447,222234.47,emerging,playground smart_home fireplace,quiet,1,1,False,False,True
+448,642185.27,developed vibrant urban,elevator,suburban quiet,5,1,False,False,True
+449,1799255.78,central,security cable,artistic midtown,5,4,False,False,True
+450,700022.77,affordable modern,fireplace laundry,artistic exclusive,0,1,False,False,True
+451,2215497.59,mountain vibrant,landscaping gym playground,industrial developing family_friendly,2,1,False,False,True
+452,153460.66,historic affordable suburb,landscaping,suburban,5,3,False,False,True
+453,2784553.82,accessible,storage,waterfront urban diverse,4,2,True,False,False
+454,2632253.38,developed,balcony,midtown industrial,3,1,False,False,True
+455,2508667.5,remote scenic,air_conditioning,waterfront quiet,1,0,False,False,True
+456,530855.01,mountain coastal,landscaping,gated historic,4,4,False,True,False
+457,421506.11,vibrant,smart_home security wifi,downtown vibrant commercial,4,2,True,False,False
+458,812221.68,developed accessible,storage,commercial affluent midtown,4,1,False,False,True
+459,102131.17,scenic modern,patio air_conditioning playground,affluent,1,4,True,False,False
+460,75891.45,urban,garden,industrial suburban,0,1,False,False,True
+461,1015888.7,affordable,storage playground,waterfront uptown family_friendly,2,5,False,False,True
+462,106282.45,vibrant suburb affordable,landscaping air_conditioning,developing diverse midtown,1,4,False,False,True
+463,3835906.73,affordable busy,heating smart_home,gated diverse,0,2,False,False,True
+464,717350.07,remote,garden,gated,3,4,False,False,True
+465,148865.04,scenic historic,parking kitchen,family_friendly,2,3,False,False,True
+466,509237.93,coastal,fireplace balcony furnished,historic waterfront,3,2,False,False,True
+467,3257787.26,downtown busy,wifi,artistic diverse,1,4,False,False,True
+468,1635569.59,urban,pool cable,vibrant,2,2,True,False,False
+469,1808669.15,downtown developed rural,smart_home elevator gym,gated,2,5,False,False,True
+470,4673749.55,urban,patio smart_home gym,commercial rural,2,3,False,False,True
+471,173881.22,rural modern central,elevator playground garden,developing industrial midtown,3,3,True,False,False
+472,3698143.79,exclusive,smart_home balcony,exclusive,4,2,False,False,True
+473,622218.19,developed accessible,parking security elevator,gated developing,0,3,False,False,True
+474,1359279.04,suburb coastal,pool,exclusive suburban,1,4,False,False,True
+475,2055737.14,suburb remote coastal,parking cable heating,family_friendly,1,1,False,False,True
+476,4593077.77,luxury exclusive,cable,waterfront,5,4,False,False,True
+477,135778.31,exclusive mountain,parking kitchen,affluent artistic gated,3,2,False,False,True
+478,186987.75,luxury central,security patio parking,exclusive urban,4,1,False,False,True
+479,1082792.31,scenic,air_conditioning kitchen,commercial,4,4,True,False,False
+480,50203.09,central downtown,wifi laundry balcony,industrial family_friendly uptown,2,3,False,False,True
+481,174720.56,developed busy,smart_home,suburban quiet developing,4,1,True,False,False
+482,3059037.05,suburb coastal,balcony garden,family_friendly,4,2,False,False,True
+483,66706.59,quiet,furnished landscaping,vibrant midtown,2,0,False,False,True
+484,3942330.08,suburb quiet,patio pool,uptown industrial suburban,1,5,False,False,True
+485,3167534.96,downtown,laundry wifi smart_home,uptown,1,2,False,False,True
+486,261465.7,emerging exclusive historic,parking,industrial,2,1,False,False,True
+487,2074243.94,urban,air_conditioning pool laundry,commercial urban,0,3,False,False,True
+488,198504.51,downtown scenic central,parking,artistic trendy,1,1,False,False,True
+489,1544928.86,luxury busy rural,playground,commercial,1,1,False,False,True
+490,69326.99,exclusive,landscaping parking patio,trendy uptown,4,3,False,False,True
+491,2830810.41,urban,pool patio parking,exclusive vibrant quiet,4,4,False,False,True
+492,3095649.45,scenic vibrant urban,cable,artistic affluent,2,3,False,False,True
+493,64966.18,affordable,heating,downtown,4,1,True,False,False
+494,925165.68,downtown coastal quiet,laundry furnished,vibrant artistic,4,2,False,False,True
+495,233315.33,suburb vibrant busy,balcony gym garden,midtown developing rural,5,4,False,False,True
+496,2326750.21,affordable,cable,historic,2,2,False,False,True
+497,64871.84,scenic developed,heating,artistic vibrant family_friendly,2,3,False,False,True
+498,1854573.9,emerging remote central,furnished landscaping storage,rural suburban uptown,3,2,False,False,True
+499,4941708.09,accessible developed vibrant,patio gym,urban,3,4,False,False,True
+500,3841499.4,urban busy,pool parking,downtown,4,2,False,True,False
+501,1010171.74,remote,balcony,midtown affluent,4,4,False,False,True
+502,151672.04,suburb,storage,historic,5,1,False,False,True
+503,2458914.86,quiet,smart_home elevator,quiet artistic midtown,3,4,True,False,False
+504,4920082.87,central,smart_home balcony,uptown waterfront diverse,1,2,True,False,False
+505,4089758.55,busy peaceful,storage,historic,2,1,False,False,True
+506,3513549.08,rural,smart_home garden balcony,artistic waterfront developing,1,4,False,False,True
+507,142343.92,emerging,heating furnished garden,downtown vibrant trendy,3,5,True,False,False
+508,1070235.25,scenic peaceful modern,wifi balcony smart_home,uptown gated,3,3,False,False,True
+509,2787716.18,suburb,patio parking fireplace,artistic uptown family_friendly,3,5,False,False,True
+510,1796563.93,central mountain developed,pool,urban artistic trendy,1,5,False,False,True
+511,65185.79,suburb exclusive modern,patio security,vibrant trendy,4,1,False,False,True
+512,163945.67,remote,parking security landscaping,rural,3,1,False,False,True
+513,2393161.75,downtown,laundry playground,vibrant affluent artistic,1,3,False,False,True
+514,1519655.66,peaceful remote,furnished smart_home air_conditioning,industrial exclusive rural,1,4,False,True,False
+515,3002379.58,suburb busy,elevator laundry playground,trendy uptown,3,3,False,False,True
+516,1641915.74,urban historic suburb,fireplace kitchen landscaping,diverse,5,3,True,False,False
+517,68160.92,central accessible,storage landscaping,midtown,4,1,False,False,True
+518,129498.15,affordable busy,gym air_conditioning laundry,trendy artistic historic,4,3,False,False,True
+519,3554222.81,developed remote,smart_home,gated downtown commercial,3,1,False,False,True
+520,242278.74,downtown luxury mountain,pool parking gym,developing,2,5,False,False,True
+521,441926.71,urban,gym,affluent industrial waterfront,3,5,False,False,True
+522,4797863.46,remote accessible historic,patio security storage,downtown,4,1,False,False,True
+523,85706.28,downtown quiet,garden gym,commercial exclusive,4,1,False,False,True
+524,3555299.85,central,fireplace storage smart_home,trendy artistic residential,2,5,False,False,True
+525,111345.62,urban accessible,patio,industrial affluent,2,0,True,False,False
+526,2187051.18,quiet historic urban,playground smart_home,trendy residential rural,1,2,False,True,False
+527,3246395.82,coastal luxury downtown,storage,exclusive,2,1,False,False,True
+528,355368.24,suburb remote busy,elevator wifi,suburban diverse uptown,0,3,False,False,True
+529,1138737.16,developed,fireplace wifi,commercial,3,0,False,False,True
+530,3493306.68,remote,wifi,trendy developing,2,3,False,False,True
+531,71051.49,quiet luxury,air_conditioning,waterfront industrial residential,0,1,False,False,True
+532,1134378.16,rural accessible affordable,garden balcony,exclusive suburban commercial,4,2,False,False,True
+533,54355.9,historic busy,pool gym balcony,diverse,2,3,True,False,False
+534,1304138.75,mountain emerging,gym,uptown,4,2,False,False,True
+535,4039002.78,developed peaceful modern,elevator fireplace,suburban exclusive rural,4,1,False,False,True
+536,4620783.68,accessible,pool,rural diverse artistic,1,2,False,False,True
+537,160897.35,quiet scenic,laundry parking,residential,0,5,False,True,False
+538,56436.5,vibrant mountain luxury,patio fireplace,waterfront trendy,5,3,False,False,True
+539,969732.28,exclusive central,playground security heating,downtown,4,1,False,False,True
+540,1724766.41,modern exclusive downtown,landscaping,diverse,1,5,True,False,False
+541,780459.49,quiet urban peaceful,playground,developing,3,1,False,False,True
+542,653993.18,quiet,laundry,vibrant artistic,3,5,False,False,True
+543,600721.29,suburb,smart_home kitchen,historic diverse,3,3,False,False,True
+544,2965101.36,historic scenic central,fireplace,vibrant gated,3,4,False,False,True
+545,501102.2,rural accessible,smart_home storage heating,exclusive uptown,3,2,False,False,True
+546,1837329.01,vibrant urban,laundry,commercial vibrant gated,1,5,False,False,True
+547,204761.49,busy,parking playground,urban,5,2,True,False,False
+548,1551387.8,rural,gym,midtown,1,4,False,False,True
+549,4422210.36,peaceful emerging scenic,garden elevator wifi,urban waterfront,1,1,False,False,True
+550,418664.78,historic suburb,furnished fireplace garden,family_friendly,5,1,False,True,False
+551,1483932.11,central,furnished,family_friendly downtown uptown,3,3,False,False,True
+552,455978.95,quiet,security elevator,urban artistic diverse,2,1,False,False,True
+553,50632.36,quiet downtown,patio kitchen,suburban exclusive,1,3,False,False,True
+554,282503.39,accessible,landscaping,industrial,3,4,False,False,True
+555,3341953.19,downtown mountain,landscaping patio,affluent,0,1,False,False,True
+556,3823860.72,coastal,landscaping air_conditioning,industrial,4,5,False,False,True
+557,2485947.3,busy downtown urban,patio security,historic downtown,4,4,False,False,True
+558,4211915.53,rural coastal,elevator,exclusive suburban,1,3,False,False,True
+559,357042.58,exclusive quiet,kitchen,family_friendly,4,5,False,False,True
+560,1588856.65,emerging historic,security,waterfront midtown uptown,4,3,False,False,True
+561,1003802.07,historic developed,wifi,residential waterfront,3,3,False,False,True
+562,2380083.45,vibrant coastal,patio,diverse affluent midtown,5,2,False,False,True
+563,50415.69,quiet remote developed,kitchen,diverse,2,1,False,False,True
+564,4825989.71,downtown central vibrant,parking,quiet family_friendly vibrant,3,1,True,False,False
+565,986863.49,luxury coastal central,balcony patio,waterfront rural,4,3,False,False,True
+566,1589653.23,luxury modern mountain,air_conditioning patio,historic midtown,2,3,False,True,False
+567,902816.9,accessible downtown central,laundry wifi landscaping,commercial diverse,1,3,False,False,True
+568,1429060.62,vibrant developed exclusive,balcony garden,vibrant,4,2,False,False,True
+569,4441146.54,modern coastal,laundry,downtown,4,4,True,False,False
+570,62303.85,urban vibrant rural,furnished,waterfront suburban downtown,1,1,True,False,False
+571,989405.33,accessible central coastal,playground,urban,3,2,False,False,True
+572,1322885.71,modern central quiet,elevator balcony fireplace,midtown gated,2,2,True,False,False
+573,2471176.47,remote mountain,fireplace cable,historic urban gated,3,4,False,False,True
+574,3238809.67,peaceful busy,cable security,downtown waterfront,4,1,False,False,True
+575,519039.87,accessible emerging,gym,downtown affluent,1,3,False,False,True
+576,4837343.69,emerging,landscaping balcony,residential,5,4,False,True,False
+577,290017.71,emerging vibrant quiet,garden laundry,rural,4,3,False,False,True
+578,4645595.35,peaceful affordable accessible,garden smart_home laundry,diverse industrial affluent,4,1,False,False,True
+579,2928227.03,urban peaceful,furnished patio storage,artistic,2,2,False,False,True
+580,1033566.19,accessible,security patio,developing midtown vibrant,3,5,True,False,False
+581,4353965.14,historic,storage,vibrant,1,2,False,True,False
+582,2923295.91,accessible modern,gym,exclusive,3,1,True,False,False
+583,1040505.71,accessible suburb peaceful,fireplace laundry,gated,4,2,False,False,True
+584,338937.95,historic suburb rural,parking storage,residential,3,2,False,False,True
+585,62975.14,vibrant mountain suburb,pool,quiet waterfront uptown,3,4,False,False,True
+586,252551.7,exclusive peaceful,playground,artistic,4,2,False,False,True
+587,1902183.41,exclusive accessible mountain,storage air_conditioning,trendy commercial,2,3,False,False,True
+588,2003189.13,downtown busy scenic,parking fireplace playground,historic developing,2,2,False,False,True
+589,1774809.93,suburb downtown,air_conditioning gym,rural,4,0,False,False,True
+590,425689.8,luxury affordable vibrant,fireplace elevator landscaping,historic,2,4,True,False,False
+591,59248.19,scenic historic coastal,kitchen heating,suburban,4,1,True,False,False
+592,111227.09,scenic,balcony wifi elevator,historic diverse,4,2,False,False,True
+593,4303155.57,historic busy developed,kitchen,urban,3,2,False,False,True
+594,3061225.74,luxury developed,patio garden,developing commercial,0,4,False,False,True
+595,459578.49,developed,landscaping elevator,vibrant diverse,3,4,False,False,True
+596,328109.5,urban,wifi storage,developing quiet,2,4,False,False,True
+597,85727.94,historic,cable laundry,developing uptown diverse,5,4,True,False,False
+598,120680.95,exclusive peaceful,smart_home,artistic,4,4,False,False,True
+599,2347531.77,scenic mountain urban,landscaping playground cable,residential,2,0,True,False,False
+600,1189947.34,rural,wifi,family_friendly uptown,4,1,False,True,False
+601,1098732.14,vibrant scenic,pool,artistic developing,3,1,False,False,True
+602,328581.37,urban exclusive rural,patio parking laundry,residential gated historic,3,4,False,False,True
+603,3930767.68,urban downtown rural,fireplace,uptown artistic developing,1,2,False,False,True
+604,2420581.15,coastal,fireplace,suburban,4,2,True,False,False
+605,3584910.01,affordable suburb,furnished,historic,1,3,False,False,True
+606,2044420.87,scenic,gym,uptown urban,1,1,False,False,True
+607,832678.99,mountain,playground smart_home,artistic developing,4,1,False,False,True
+608,1531886.21,affordable historic rural,fireplace wifi,developing artistic,2,3,False,False,True
+609,195227.18,exclusive busy,heating furnished,exclusive,1,3,False,False,True
+610,2201031.63,affordable exclusive remote,garden wifi smart_home,rural uptown urban,4,0,True,False,False
+611,4624450.97,remote affordable,landscaping storage,historic,1,4,False,False,True
+612,650005.11,vibrant,playground,trendy artistic,1,3,False,False,True
+613,1866347.55,historic accessible,storage,uptown urban vibrant,2,1,True,False,False
+614,3108892.09,affordable busy urban,gym laundry balcony,vibrant,2,2,False,False,True
+615,1135192.38,affordable remote coastal,furnished,waterfront rural historic,5,3,False,False,True
+616,190428.14,accessible remote downtown,gym pool storage,artistic diverse family_friendly,2,3,True,False,False
+617,532682.69,suburb,heating gym,artistic downtown residential,5,2,False,False,True
+618,1080905.86,remote developed,storage kitchen,exclusive historic urban,0,3,False,False,True
+619,1871905.92,rural busy developed,security,historic waterfront,0,1,False,False,True
+620,1376303.72,scenic vibrant exclusive,cable kitchen parking,exclusive,2,0,False,False,True
+621,155572.76,busy,storage,industrial gated waterfront,2,2,False,False,True
+622,50144.2,rural,storage laundry gym,waterfront exclusive,4,4,False,False,True
+623,100323.41,busy,elevator,quiet,3,3,False,False,True
+624,541688.82,downtown urban,balcony laundry kitchen,affluent diverse,1,4,False,True,False
+625,2493070.52,peaceful remote modern,garden cable furnished,developing,4,4,False,True,False
+626,299298.28,accessible,fireplace,gated quiet developing,1,5,False,False,True
+627,1612747.67,coastal,wifi smart_home balcony,diverse exclusive,4,3,False,False,True
+628,1484922.58,downtown rural urban,kitchen,trendy,0,1,False,False,True
+629,1788282.5,remote,pool elevator laundry,suburban residential,2,2,True,False,False
+630,113784.37,emerging rural,laundry garden,exclusive industrial commercial,5,3,False,False,True
+631,4476026.05,quiet,cable pool,vibrant residential,3,0,False,False,True
+632,2140509.5,urban,smart_home patio pool,industrial,0,2,False,False,True
+633,1651242.05,developed accessible,landscaping smart_home,historic midtown,1,5,False,False,True
+634,1558637.68,central,balcony wifi,artistic residential rural,2,3,False,True,False
+635,4934483.24,historic emerging,kitchen wifi,family_friendly midtown,0,5,False,False,True
+636,3030044.2,developed,parking storage patio,uptown trendy,3,4,False,False,True
+637,4086321.1,accessible peaceful busy,pool parking kitchen,quiet developing artistic,4,3,True,False,False
+638,924520.41,central developed,garden,diverse affluent,3,3,False,False,True
+639,147361.11,peaceful accessible,landscaping storage,industrial,0,5,False,False,True
+640,1267050.31,accessible,storage kitchen,urban uptown,2,2,False,False,True
+641,730155.16,accessible vibrant scenic,cable wifi air_conditioning,industrial,3,4,True,False,False
+642,1978428.98,quiet rural,air_conditioning cable gym,urban suburban uptown,1,0,False,True,False
+643,4766453.03,accessible vibrant peaceful,patio,quiet developing gated,2,2,False,False,True
+644,220426.76,mountain exclusive urban,parking,midtown commercial trendy,3,2,False,False,True
+645,2564842.37,developed luxury affordable,balcony,trendy downtown,3,1,True,False,False
+646,191567.66,suburb busy,furnished,midtown gated industrial,2,0,False,False,True
+647,316122.75,mountain rural historic,air_conditioning,vibrant,5,4,True,False,False
+648,259981.64,scenic remote,storage elevator security,historic affluent downtown,2,3,False,False,True
+649,1193525.68,peaceful historic busy,garden gym,vibrant,2,3,False,False,True
+650,4171097.15,accessible urban rural,pool landscaping,industrial residential,5,3,False,False,True
+651,956501.07,quiet,pool parking,affluent historic,4,2,False,False,True
+652,3674852.94,exclusive developed coastal,storage,vibrant,1,3,False,False,True
+653,1455165.36,urban coastal quiet,garden security gym,quiet artistic uptown,5,5,False,True,False
+654,88067.39,emerging,patio landscaping furnished,quiet,3,2,True,False,False
+655,1617154.68,scenic emerging,storage air_conditioning,developing quiet,4,0,True,False,False
+656,4234515.9,suburb coastal,smart_home,family_friendly affluent,4,0,False,False,True
+657,3357455.11,central emerging suburb,elevator balcony,rural trendy affluent,2,2,True,False,False
+658,824161.17,suburb exclusive luxury,parking gym laundry,affluent quiet downtown,3,4,False,False,True
+659,800138.02,suburb historic,balcony fireplace furnished,affluent,3,1,False,True,False
+660,2145341.02,central luxury historic,heating balcony landscaping,gated,3,1,False,False,True
+661,4969535.15,quiet developed,landscaping storage,downtown,3,3,False,False,True
+662,4554155.08,quiet central,laundry pool heating,midtown exclusive,5,4,True,False,False
+663,299541.62,remote accessible affordable,cable,trendy quiet,1,4,True,False,False
+664,1030623.22,emerging modern,pool cable,artistic,4,3,False,False,True
+665,4334894.44,urban central,security smart_home,vibrant,5,0,True,False,False
+666,135005.07,coastal downtown,garden balcony,affluent trendy uptown,0,4,False,False,True
+667,263515.42,remote suburb,patio parking balcony,developing midtown affluent,2,2,True,False,False
+668,3956800.68,remote rural,smart_home laundry security,vibrant trendy diverse,3,2,False,True,False
+669,489831.61,peaceful scenic vibrant,laundry cable,affluent,2,0,False,False,True
+670,1335882.96,mountain,elevator,diverse artistic midtown,1,4,False,False,True
+671,139974.93,historic urban,security elevator,developing quiet,4,4,False,True,False
+672,50792.82,busy peaceful exclusive,smart_home,trendy,1,0,False,False,True
+673,404771.84,quiet,laundry air_conditioning,diverse rural,3,5,False,False,True
+674,1983517.29,accessible remote,fireplace,suburban quiet uptown,1,0,False,False,True
+675,2610362.78,emerging exclusive busy,security elevator,residential family_friendly,2,5,False,False,True
+676,1973236.51,developed accessible,wifi fireplace,waterfront,3,0,False,False,True
+677,1150484.67,luxury,parking kitchen,trendy historic,3,2,False,False,True
+678,4984971.66,quiet,gym elevator kitchen,artistic waterfront uptown,1,5,False,False,True
+679,2509206.81,historic affordable downtown,kitchen cable laundry,affluent waterfront midtown,2,5,False,False,True
+680,344735.31,accessible downtown,storage heating cable,downtown trendy,2,3,False,False,True
+681,2501005.49,rural quiet,laundry cable,uptown,1,0,False,False,True
+682,82894.95,quiet mountain,landscaping kitchen gym,suburban industrial,1,1,False,False,True
+683,1937739.66,busy remote quiet,elevator,industrial,4,4,False,False,True
+684,4258998.63,rural remote,playground smart_home,exclusive affluent,2,1,False,False,True
+685,281095.7,downtown urban vibrant,landscaping balcony,uptown vibrant gated,4,1,False,False,True
+686,52582.33,historic suburb,playground garden patio,industrial downtown suburban,2,1,False,False,True
+687,2507169.75,vibrant developed,wifi air_conditioning pool,downtown midtown uptown,4,4,False,False,True
+688,3126535.68,vibrant,pool elevator security,midtown diverse industrial,4,4,False,False,True
+689,395271.36,luxury,garden,trendy artistic quiet,1,0,False,False,True
+690,1197631.87,developed exclusive affordable,furnished,uptown,0,3,True,False,False
+691,379095.85,exclusive historic urban,garden smart_home heating,artistic,5,2,False,False,True
+692,4733050.83,peaceful mountain central,storage patio,trendy,1,2,True,False,False
+693,968447.9,downtown urban modern,air_conditioning smart_home,waterfront vibrant,3,2,False,False,True
+694,983576.16,rural,garden furnished,suburban affluent urban,0,2,False,False,True
+695,1857831.26,downtown exclusive,cable kitchen wifi,suburban industrial,1,1,False,False,True
+696,4592687.17,central,parking elevator,waterfront,5,1,False,False,True
+697,1314513.99,busy,landscaping gym playground,waterfront affluent historic,3,5,False,False,True
+698,4478280.74,downtown vibrant scenic,storage gym,historic commercial,2,1,False,False,True
+699,1069870.98,remote peaceful urban,kitchen,suburban quiet,3,4,False,False,True
+700,1914837.16,urban affordable remote,heating storage,vibrant exclusive suburban,4,4,True,False,False
+701,3416511.19,central suburb,pool laundry,urban family_friendly,0,2,True,False,False
+702,527696.34,accessible historic,furnished,downtown midtown,3,2,False,False,True
+703,50015.35,vibrant exclusive quiet,playground balcony security,diverse affluent gated,3,0,False,False,True
+704,859191.85,scenic emerging developed,patio,urban affluent downtown,4,4,False,False,True
+705,3408751.03,downtown accessible mountain,fireplace security,uptown exclusive affluent,2,5,False,False,True
+706,157148.63,exclusive coastal affordable,garden fireplace parking,affluent,1,0,True,False,False
+707,1031038.58,scenic,pool heating air_conditioning,quiet,2,2,True,False,False
+708,3463660.25,downtown quiet historic,playground,trendy historic rural,0,5,False,True,False
+709,2044737.38,peaceful,parking cable wifi,gated vibrant,3,1,False,False,True
+710,2266337.91,accessible,air_conditioning,trendy,0,4,False,False,True
+711,332712.73,central scenic,playground patio,quiet artistic commercial,5,0,False,False,True
+712,50481.08,developed accessible,gym balcony air_conditioning,vibrant downtown,4,0,False,False,True
+713,80957.03,scenic suburb affordable,cable,residential historic,2,4,True,False,False
+714,1321436.3,modern central rural,patio smart_home,uptown,3,2,False,False,True
+715,63327.09,suburb affordable luxury,garden,historic,0,3,False,False,True
+716,705110.0,emerging,furnished elevator storage,affluent quiet midtown,2,4,False,False,True
+717,3589130.45,busy,storage heating playground,family_friendly,1,3,False,False,True
+718,4858095.91,suburb affordable,balcony smart_home,midtown,3,3,True,False,False
+719,4987343.04,historic,security cable,historic,4,5,True,False,False
+720,4597790.48,historic,storage pool patio,diverse,3,3,False,False,True
+721,80332.38,historic emerging,balcony wifi,exclusive affluent vibrant,1,4,True,False,False
+722,1097102.67,luxury urban,gym smart_home heating,residential exclusive,3,2,False,False,True
+723,4694624.65,exclusive,patio furnished,artistic quiet affluent,2,3,False,False,True
+724,1094026.71,downtown rural modern,parking air_conditioning patio,rural,2,4,False,False,True
+725,1004087.32,emerging,smart_home balcony,industrial downtown,2,4,False,False,True
+726,64872.2,accessible quiet developed,elevator,downtown gated,4,2,False,False,True
+727,2027434.91,mountain,air_conditioning landscaping elevator,historic quiet,4,4,True,False,False
+728,457908.36,affordable,storage fireplace patio,uptown,2,1,False,False,True
+729,3760542.82,luxury,garden gym wifi,vibrant developing waterfront,1,1,False,False,True
+730,4521955.19,historic peaceful,garden,affluent gated,3,1,False,False,True
+731,2166240.48,downtown coastal historic,cable gym parking,affluent,3,3,False,False,True
+732,2098316.86,affordable coastal,gym parking furnished,rural,2,5,False,False,True
+733,2143217.02,affordable urban,kitchen storage,affluent historic diverse,4,5,False,False,True
+734,3550396.52,developed downtown remote,furnished playground,residential midtown,0,3,False,False,True
+735,2227132.2,rural luxury,furnished laundry kitchen,downtown,2,0,False,False,True
+736,3269545.87,exclusive coastal,fireplace air_conditioning pool,vibrant suburban,1,4,False,False,True
+737,848648.12,emerging,elevator,diverse trendy historic,5,2,False,False,True
+738,1279643.11,peaceful,wifi,trendy downtown urban,1,2,False,True,False
+739,623005.85,emerging,parking air_conditioning patio,family_friendly commercial,4,1,True,False,False
+740,3868778.24,exclusive quiet,heating storage laundry,historic,3,2,True,False,False
+741,70524.41,exclusive,heating kitchen,trendy quiet rural,3,1,False,False,True
+742,711334.39,mountain accessible,storage parking heating,vibrant diverse,3,4,False,True,False
+743,4757340.09,remote,heating storage wifi,rural vibrant,3,4,False,False,True
+744,3990649.47,suburb modern historic,garden,downtown waterfront developing,4,5,False,False,True
+745,3658014.6,rural,patio landscaping playground,gated residential,5,1,False,False,True
+746,2208088.81,quiet,landscaping,diverse,3,1,False,False,True
+747,183286.06,modern,patio,uptown downtown,1,2,True,False,False
+748,571767.82,rural downtown luxury,wifi,waterfront,1,4,False,False,True
+749,2985296.04,luxury downtown,landscaping balcony furnished,rural urban exclusive,4,0,False,False,True
+750,4036701.29,mountain,smart_home,family_friendly,4,2,False,False,True
+751,4150593.62,emerging vibrant affordable,storage kitchen elevator,suburban rural,5,5,False,False,True
+752,2806366.65,coastal,fireplace furnished,industrial downtown waterfront,3,2,False,False,True
+753,3258177.59,peaceful emerging,gym,exclusive developing quiet,5,1,False,False,True
+754,2382287.2,coastal vibrant,wifi,historic uptown quiet,1,5,False,False,True
+755,4752306.32,affordable rural quiet,pool air_conditioning fireplace,gated industrial suburban,4,4,False,False,True
+756,4205394.51,peaceful accessible central,patio cable playground,trendy midtown rural,3,1,True,False,False
+757,3705488.26,central,security kitchen,developing,4,3,False,False,True
+758,148424.24,vibrant luxury,kitchen,affluent,2,4,True,False,False
+759,428470.22,accessible,laundry patio,affluent,1,2,False,False,True
+760,359228.43,luxury busy,playground pool landscaping,rural,1,3,True,False,False
+761,1375651.86,developed peaceful,playground cable,downtown suburban rural,0,4,True,False,False
+762,4638863.95,downtown historic,laundry patio,historic downtown,1,2,False,False,True
+763,3165353.45,coastal vibrant,garden balcony gym,affluent,4,1,False,False,True
+764,455124.54,affordable downtown,elevator,quiet historic,3,4,True,False,False
+765,3541975.1,developed urban suburb,elevator wifi playground,industrial gated,1,1,False,False,True
+766,893521.02,coastal urban,parking,downtown urban artistic,4,1,False,False,True
+767,2279956.54,downtown developed modern,gym wifi fireplace,diverse,5,3,False,True,False
+768,1241794.14,luxury,heating security,vibrant gated historic,4,5,True,False,False
+769,4835631.86,remote busy,wifi gym furnished,exclusive gated industrial,2,3,False,False,True
+770,2487861.6,modern emerging,patio security,affluent downtown historic,1,2,False,False,True
+771,3579150.61,urban remote luxury,parking,residential,1,2,False,False,True
+772,163071.16,emerging modern remote,kitchen playground smart_home,midtown affluent,5,2,False,False,True
+773,621692.59,downtown scenic,landscaping cable,suburban downtown urban,0,3,True,False,False
+774,201487.87,luxury central,gym pool,urban residential,2,1,False,True,False
+775,2194540.99,modern busy affordable,fireplace landscaping,gated diverse quiet,1,1,False,False,True
+776,3034137.62,urban downtown busy,security heating fireplace,artistic waterfront trendy,2,3,False,False,True
+777,269975.82,mountain peaceful coastal,fireplace playground balcony,exclusive urban artistic,5,5,False,False,True
+778,1118859.11,remote scenic luxury,wifi elevator,quiet exclusive residential,0,1,False,False,True
+779,895713.08,vibrant remote,storage patio playground,urban,4,5,True,False,False
+780,2745668.82,central,smart_home balcony,diverse historic artistic,4,3,False,False,True
+781,4337988.74,coastal central,wifi fireplace pool,trendy commercial artistic,2,4,False,False,True
+782,3285726.29,coastal,cable wifi smart_home,quiet uptown family_friendly,4,1,False,False,True
+783,2072267.51,rural,fireplace,residential uptown,3,1,False,True,False
+784,4397272.93,historic downtown remote,garden smart_home,gated diverse developing,5,1,False,False,True
+785,267296.11,accessible quiet peaceful,elevator parking storage,downtown,2,1,True,False,False
+786,1048840.76,rural scenic,balcony patio,urban residential vibrant,2,2,False,False,True
+787,2212093.15,affordable,fireplace laundry security,waterfront industrial rural,5,2,True,False,False
+788,4720759.0,rural,patio,trendy suburban,4,3,False,False,True
+789,4314030.77,urban developed scenic,heating,commercial,2,3,False,False,True
+790,934731.56,remote busy,balcony,waterfront gated,3,5,True,False,False
+791,86488.89,modern exclusive quiet,pool,residential downtown,2,5,False,False,True
+792,52768.69,suburb busy,landscaping patio fireplace,midtown,4,2,False,False,True
+793,327104.64,scenic busy developed,pool,developing,3,3,True,False,False
+794,583364.75,remote central emerging,wifi,vibrant quiet,3,3,False,False,True
+795,2309826.28,scenic luxury,playground gym landscaping,family_friendly waterfront,5,2,True,False,False
+796,3774466.29,quiet,balcony fireplace playground,midtown,5,5,True,False,False
+797,345530.28,quiet,furnished smart_home balcony,affluent diverse rural,1,0,False,False,True
+798,1501628.17,modern busy coastal,playground,developing trendy,4,3,False,False,True
+799,1452555.24,affordable downtown,laundry garden pool,commercial quiet historic,3,0,False,False,True
+800,968966.9,accessible coastal affordable,wifi air_conditioning pool,artistic,3,1,False,False,True
+801,2028482.42,downtown,security parking,rural commercial,3,2,True,False,False
+802,4139480.83,central exclusive,laundry heating playground,trendy,2,2,False,False,True
+803,54194.72,downtown exclusive,cable patio,historic quiet,1,2,False,False,True
+804,1728772.33,suburb scenic,smart_home air_conditioning furnished,commercial gated,3,1,False,False,True
+805,3121081.06,peaceful urban,balcony,midtown,3,2,False,False,True
+806,77280.23,rural accessible,balcony smart_home,urban industrial,4,3,True,False,False
+807,2582598.69,luxury emerging suburb,parking balcony laundry,gated commercial,0,1,True,False,False
+808,3149732.11,suburb mountain quiet,patio,exclusive downtown industrial,2,1,False,False,True
+809,654390.97,suburb modern,gym kitchen playground,gated,1,4,True,False,False
+810,1924860.56,busy,security elevator storage,affluent midtown,4,4,False,False,True
+811,1027842.66,central rural developed,wifi garden patio,residential,0,3,False,False,True
+812,954999.11,rural central coastal,balcony,vibrant quiet commercial,2,1,False,False,True
+813,4237685.19,exclusive emerging,parking,trendy affluent residential,2,5,False,False,True
+814,686251.35,downtown coastal exclusive,patio fireplace,vibrant,0,4,False,True,False
+815,709376.48,remote,patio air_conditioning,uptown,2,3,False,False,True
+816,87252.86,modern,smart_home patio,industrial,2,3,False,False,True
+817,3915163.34,mountain,patio,exclusive trendy,0,3,True,False,False
+818,487216.41,emerging,heating security,suburban,4,1,True,False,False
+819,128790.19,rural accessible,cable garden furnished,historic affluent,1,3,True,False,False
+820,4894299.92,historic exclusive emerging,patio cable,urban quiet,5,3,False,False,True
+821,789946.06,mountain peaceful remote,air_conditioning garden landscaping,urban waterfront,2,2,False,False,True
+822,3168166.78,exclusive mountain downtown,kitchen air_conditioning elevator,suburban industrial trendy,1,4,False,False,True
+823,261057.85,quiet busy coastal,heating garden elevator,developing downtown,2,5,False,False,True
+824,3358560.03,downtown rural,balcony,waterfront suburban vibrant,4,3,False,False,True
+825,572281.84,scenic,air_conditioning,historic midtown,1,1,False,True,False
+826,3769534.98,mountain peaceful,pool,artistic,4,4,False,False,True
+827,4674444.84,luxury urban vibrant,kitchen parking playground,midtown affluent,1,3,False,False,True
+828,3359672.32,accessible rural suburb,wifi heating balcony,rural,2,1,False,True,False
+829,2523395.2,emerging urban remote,wifi gym,urban,4,3,False,False,True
+830,4635205.96,historic urban,heating,artistic,4,2,False,False,True
+831,3204704.9,urban,pool garden,affluent exclusive urban,1,4,False,False,True
+832,4668624.63,exclusive busy,air_conditioning pool playground,uptown exclusive,1,2,False,False,True
+833,3385886.89,central,garden fireplace,rural,4,4,False,False,True
+834,942435.94,busy quiet mountain,heating elevator laundry,gated residential,0,2,True,False,False
+835,1560155.13,modern,pool storage patio,uptown residential developing,3,1,False,True,False
+836,659184.6,peaceful modern,smart_home laundry,quiet,4,3,False,False,True
+837,117961.39,central suburb developed,landscaping balcony security,residential suburban midtown,0,0,False,False,True
+838,50267.47,downtown developed affordable,playground balcony parking,historic vibrant,3,2,False,False,True
+839,1770989.87,remote vibrant rural,elevator gym storage,rural,0,2,False,False,True
+840,634338.93,modern mountain remote,playground landscaping,affluent suburban trendy,0,5,False,False,True
+841,206705.97,downtown,patio security,urban quiet,1,1,False,False,True
+842,310940.55,central,cable air_conditioning,affluent,3,4,False,False,True
+843,417372.52,downtown,cable,quiet,2,0,False,False,True
+844,859946.72,accessible,pool,commercial,4,3,False,False,True
+845,1709135.37,historic vibrant,landscaping,vibrant historic,0,2,False,False,True
+846,1798202.36,suburb rural luxury,pool,historic urban,1,2,True,False,False
+847,606019.5,historic central downtown,fireplace elevator,quiet,4,2,False,False,True
+848,267051.3,scenic,elevator,family_friendly quiet gated,1,4,False,False,True
+849,1864960.84,quiet historic urban,furnished landscaping,quiet midtown,5,0,True,False,False
+850,84005.03,central vibrant quiet,furnished gym,affluent,4,1,False,False,True
+851,52923.44,luxury,balcony,developing gated,4,1,False,False,True
+852,4010430.03,historic modern,heating wifi,suburban developing,2,5,True,False,False
+853,3246021.95,urban,storage,midtown commercial,1,4,False,False,True
+854,4031806.61,remote modern busy,balcony heating kitchen,affluent midtown rural,1,3,False,False,True
+855,2456524.23,suburb accessible busy,landscaping furnished patio,residential uptown,1,1,False,False,True
+856,85125.45,rural busy,furnished,midtown family_friendly rural,5,2,True,False,False
+857,1740347.07,busy quiet,parking,diverse,5,2,False,False,True
+858,117425.38,busy,storage playground,urban industrial,2,1,False,False,True
+859,4952719.85,central accessible,pool laundry,commercial waterfront midtown,4,3,False,False,True
+860,4340522.52,scenic,pool air_conditioning parking,uptown diverse rural,0,2,True,False,False
+861,918713.13,central,air_conditioning heating,waterfront exclusive residential,2,3,False,False,True
+862,114329.53,developed,pool heating furnished,quiet,0,1,True,False,False
+863,1123787.82,accessible,landscaping garden,midtown gated downtown,2,0,True,False,False
+864,157708.94,peaceful,air_conditioning heating balcony,waterfront gated,1,1,False,False,True
+865,1039919.75,rural exclusive,garden balcony,suburban trendy quiet,1,2,False,False,True
+866,2588356.86,central historic,balcony garden,family_friendly,3,3,False,False,True
+867,4034131.35,busy exclusive affordable,playground,industrial commercial quiet,3,2,True,False,False
+868,3662666.41,accessible,elevator landscaping air_conditioning,rural gated,2,3,False,False,True
+869,881621.87,emerging busy,pool,midtown developing suburban,2,0,True,False,False
+870,1019752.35,urban peaceful,smart_home,vibrant rural,0,1,False,False,True
+871,4969818.76,historic mountain,balcony,industrial historic,3,1,True,False,False
+872,2043203.74,luxury,air_conditioning heating,residential family_friendly,3,0,False,False,True
+873,1746116.28,peaceful,patio playground elevator,exclusive residential,0,0,False,True,False
+874,1373662.3,remote quiet modern,kitchen fireplace wifi,waterfront suburban exclusive,0,2,False,False,True
+875,3197520.34,developed downtown,security furnished patio,exclusive,3,1,False,False,True
+876,2176539.99,developed remote,laundry furnished,family_friendly urban,3,2,False,False,True
+877,303699.32,luxury urban,playground pool storage,rural developing urban,4,3,True,False,False
+878,746207.82,vibrant developed,furnished,urban,1,0,False,False,True
+879,725599.56,rural affordable,pool garden laundry,artistic quiet,3,4,False,False,True
+880,4359898.14,suburb rural vibrant,gym,artistic commercial,3,1,False,False,True
+881,3296217.1,suburb emerging developed,heating patio,quiet vibrant exclusive,5,2,False,False,True
+882,4512508.9,coastal peaceful modern,smart_home,diverse developing,1,1,False,False,True
+883,376713.08,accessible,heating pool,artistic diverse,1,1,False,False,True
+884,628874.78,busy developed suburb,heating,vibrant residential waterfront,2,1,True,False,False
+885,3554402.02,scenic,elevator,downtown vibrant historic,2,3,False,False,True
+886,666296.66,downtown coastal,storage laundry wifi,family_friendly quiet,4,1,False,False,True
+887,168548.63,downtown,security storage,diverse residential downtown,3,2,True,False,False
+888,2674795.18,scenic peaceful,cable furnished kitchen,affluent quiet family_friendly,3,1,False,False,True
+889,524749.55,quiet vibrant,playground smart_home,trendy urban developing,4,4,False,False,True
+890,4435284.14,mountain historic,landscaping,commercial,3,3,False,False,True
+891,2266306.39,developed coastal modern,playground garden,urban,0,4,False,True,False
+892,2826723.75,vibrant historic,balcony smart_home,family_friendly quiet,3,1,True,False,False
+893,4809433.34,rural,smart_home,developing waterfront trendy,1,4,True,False,False
+894,517658.81,historic downtown quiet,patio pool,historic industrial,5,3,False,False,True
+895,138791.71,rural peaceful busy,kitchen air_conditioning landscaping,gated diverse developing,5,4,False,False,True
+896,267585.78,historic busy,furnished landscaping,trendy midtown,5,5,False,False,True
+897,943264.19,rural,elevator gym furnished,artistic,5,2,False,False,True
+898,1067259.71,suburb downtown,wifi storage,vibrant,1,2,False,False,True
+899,51317.62,affordable,laundry heating security,gated waterfront uptown,2,1,False,False,True
+900,3219491.22,exclusive quiet,balcony,quiet affluent,1,5,False,False,True
+901,3785837.95,accessible,playground fireplace storage,urban,4,4,False,False,True
+902,782940.35,affordable,garden,developing uptown,4,4,False,True,False
+903,3648526.26,busy peaceful developed,storage cable garden,industrial trendy,2,2,False,False,True
+904,107460.72,quiet busy,fireplace,developing suburban affluent,3,2,False,False,True
+905,1640050.8,quiet historic coastal,elevator landscaping patio,residential uptown affluent,2,4,False,False,True
+906,50487.14,exclusive mountain,pool patio,family_friendly quiet artistic,5,1,False,False,True
+907,328663.19,coastal,gym parking heating,trendy uptown gated,4,2,False,False,True
+908,2523164.84,historic remote mountain,security,downtown gated,2,3,False,False,True
+909,404851.05,modern,cable security,commercial artistic suburban,4,2,True,False,False
+910,1335869.31,historic quiet scenic,security,artistic developing urban,3,0,False,False,True
+911,57355.91,developed peaceful suburb,playground gym parking,urban diverse historic,0,3,False,True,False
+912,4272066.24,quiet downtown,heating,suburban,1,5,False,False,True
+913,3638117.65,suburb peaceful scenic,pool heating,trendy industrial,2,3,False,False,True
+914,665818.04,peaceful quiet vibrant,heating,developing,4,1,False,False,True
+915,3014319.58,busy suburb,smart_home landscaping fireplace,gated vibrant midtown,1,4,False,False,True
+916,3499640.85,accessible luxury,playground security elevator,trendy waterfront uptown,4,4,False,False,True
+917,1041860.36,accessible modern developed,fireplace pool parking,midtown waterfront family_friendly,5,5,False,False,True
+918,2308640.43,quiet busy remote,cable playground,residential commercial,2,4,False,False,True
+919,2494993.59,affordable luxury rural,air_conditioning,midtown diverse historic,2,1,False,False,True
+920,2248336.36,downtown busy,gym,gated,4,1,False,False,True
+921,82699.05,affordable scenic rural,pool,gated rural,4,1,False,False,True
+922,922049.89,exclusive,kitchen gym,developing,2,4,False,False,True
+923,628026.9,emerging accessible downtown,kitchen cable playground,uptown,4,2,False,False,True
+924,59524.7,urban historic,elevator cable,industrial,3,3,True,False,False
+925,3955836.51,coastal urban modern,kitchen storage garden,gated trendy,1,5,False,False,True
+926,1527275.38,peaceful,cable furnished garden,diverse artistic,3,1,False,False,True
+927,1010381.93,mountain,wifi laundry,exclusive artistic industrial,5,5,False,False,True
+928,695217.17,emerging,kitchen,suburban,2,3,False,False,True
+929,912112.64,modern,laundry playground,uptown,3,2,False,False,True
+930,516764.49,vibrant,storage,historic,1,3,False,False,True
+931,1296914.68,exclusive modern developed,elevator storage laundry,gated midtown,3,1,False,False,True
+932,3910871.32,quiet vibrant,cable laundry,trendy,5,3,False,False,True
+933,98086.99,suburb developed urban,air_conditioning,urban,1,1,False,True,False
+934,3558600.3,coastal vibrant,storage parking,diverse,0,1,True,False,False
+935,2094434.29,accessible suburb vibrant,fireplace garden landscaping,industrial midtown,3,4,False,False,True
+936,2988540.36,luxury,furnished heating fireplace,downtown family_friendly suburban,2,4,False,False,True
+937,4185141.12,downtown busy,heating,waterfront,1,2,False,False,True
+938,517618.25,scenic exclusive,gym kitchen,residential industrial,0,2,False,False,True
+939,2339221.61,modern scenic remote,playground fireplace air_conditioning,waterfront,1,3,False,False,True
+940,742307.97,accessible,gym cable garden,waterfront,4,1,False,False,True
+941,1704917.28,coastal,garden balcony,midtown affluent,1,1,False,False,True
+942,284319.09,historic,balcony storage parking,quiet industrial commercial,2,3,False,False,True
+943,3451406.99,exclusive affordable urban,gym storage wifi,quiet diverse family_friendly,5,2,False,False,True
+944,1748264.47,urban,laundry patio smart_home,midtown,4,1,False,False,True
+945,50000.27,modern coastal accessible,air_conditioning,industrial suburban,1,3,False,False,True
+946,183671.52,historic exclusive emerging,heating elevator furnished,gated downtown vibrant,1,2,False,False,True
+947,3325980.58,downtown busy,garden landscaping,quiet diverse gated,2,0,False,False,True
+948,523385.66,mountain quiet,air_conditioning furnished smart_home,midtown artistic waterfront,2,5,False,True,False
+949,68433.34,urban coastal,landscaping,uptown rural gated,2,3,False,False,True
+950,359279.15,modern central,kitchen playground air_conditioning,urban family_friendly rural,1,3,False,False,True
+951,70493.75,coastal quiet historic,elevator patio cable,gated midtown quiet,4,2,False,False,True
+952,3347795.23,emerging affordable,balcony pool security,affluent developing rural,4,4,False,False,True
+953,416064.03,rural downtown scenic,laundry security,commercial,3,3,False,False,True
+954,4588203.71,downtown,security kitchen air_conditioning,uptown,4,1,False,False,True
+955,460144.79,exclusive,garden elevator kitchen,downtown urban,2,5,False,True,False
+956,1719520.86,rural,air_conditioning,family_friendly midtown vibrant,4,5,True,False,False
+957,3180248.04,rural remote emerging,playground patio wifi,family_friendly vibrant waterfront,5,1,False,True,False
+958,102655.64,scenic central,cable wifi parking,diverse uptown gated,1,1,False,False,True
+959,90788.02,rural mountain historic,wifi heating security,gated,1,0,False,True,False
+960,4331086.78,coastal remote historic,air_conditioning balcony pool,urban,2,1,False,False,True
+961,3843398.43,busy scenic,parking storage laundry,vibrant quiet rural,5,3,False,False,True
+962,3746436.49,quiet accessible,wifi,developing waterfront,5,5,True,False,False
+963,4927914.31,downtown,wifi fireplace pool,exclusive developing waterfront,4,3,False,True,False
+964,3905996.63,suburb coastal exclusive,cable furnished gym,quiet,0,1,False,False,True
+965,492549.54,peaceful scenic,garden smart_home air_conditioning,waterfront,3,4,True,False,False
+966,2062190.83,urban,heating,historic,2,3,True,False,False
+967,79911.98,modern,parking balcony,commercial,1,2,True,False,False
+968,73093.23,urban rural accessible,furnished pool,commercial historic waterfront,3,1,False,False,True
+969,308191.55,coastal historic mountain,furnished,vibrant commercial quiet,1,5,False,True,False
+970,3493252.48,quiet busy developed,gym security,diverse,1,1,False,False,True
+971,114779.69,luxury mountain coastal,smart_home storage,urban,4,1,False,False,True
+972,4333436.66,accessible vibrant,elevator,diverse quiet,4,1,True,False,False
+973,1103528.49,coastal central exclusive,parking smart_home,gated midtown quiet,2,4,False,False,True
+974,52393.12,mountain accessible,security parking balcony,vibrant,1,4,False,False,True
+975,3595748.05,peaceful suburb,smart_home,diverse,1,2,False,False,True
+976,3959793.07,coastal emerging,fireplace smart_home air_conditioning,exclusive midtown,1,4,True,False,False
+977,999594.92,busy,parking fireplace elevator,artistic,4,2,False,True,False
+978,1178042.43,remote modern,elevator landscaping kitchen,developing,5,0,True,False,False
+979,914844.33,accessible,landscaping laundry,quiet commercial historic,3,1,False,True,False
+980,1676979.73,luxury downtown,patio gym,rural quiet,3,5,True,False,False
+981,1204637.66,exclusive urban suburb,air_conditioning laundry storage,vibrant,1,4,False,False,True
+982,2718670.29,quiet,garden furnished playground,developing affluent uptown,4,1,False,True,False
+983,3530084.37,peaceful urban,pool,urban,4,3,True,False,False
+984,1822688.41,peaceful,elevator,trendy affluent,4,2,True,False,False
+985,1738223.78,quiet suburb,storage,rural waterfront,2,1,False,False,True
+986,50032.12,developed,smart_home fireplace security,family_friendly,4,1,True,False,False
+987,927799.56,quiet coastal,gym cable kitchen,trendy,2,5,False,False,True
+988,2177274.01,mountain,fireplace parking storage,urban suburban vibrant,1,1,False,False,True
+989,3723775.52,developed modern,smart_home landscaping heating,residential,2,2,False,False,True
+990,583875.56,developed,storage garden,affluent uptown suburban,5,1,False,False,True
+991,3146122.3,rural,cable heating,industrial vibrant gated,4,5,True,False,False
+992,352487.15,modern,balcony garden parking,developing uptown,5,2,False,False,True
+993,3374979.39,vibrant exclusive central,playground wifi,historic,3,4,False,False,True
+994,1755536.96,urban rural vibrant,garden,family_friendly vibrant,3,4,False,False,True
+995,3975070.41,exclusive,pool cable,diverse,1,0,False,False,True
+996,1717653.2,developed,pool parking laundry,historic vibrant urban,4,2,False,True,False
+997,3747674.68,remote quiet peaceful,storage garden wifi,vibrant,1,5,False,False,True
+998,4697367.24,emerging developed,playground,quiet gated affluent,4,3,False,False,True
+999,1495000.54,luxury,fireplace gym security,gated developing,2,4,False,False,True
+1000,317306.42,coastal scenic remote,security storage,historic,0,3,True,False,False
